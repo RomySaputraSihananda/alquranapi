@@ -1,8 +1,5 @@
 package org.alquranapi.Model.DTO;
 
-import java.util.ArrayList;
-import java.util.Map;
-
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
