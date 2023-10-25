@@ -1,6 +1,7 @@
 package org.alquranapi.service;
 
 import java.util.ArrayList;
+import java.util.List;
 
 import org.alquranapi.Model.DTO.SuratDTO;
 import org.alquranapi.Model.DTO.SuratDetailDTO;
@@ -20,8 +21,12 @@ public class AlquranService {
         return allSurat;
     }
 
-    public SuratDetailDTO getDetail(int nomor) {
-        return readFile(nomor);
+    public ArrayList<SuratDetailDTO> getDetail(int nomor) {
+        return new ArrayList<>(List.of(readFile(nomor)));
+    }
+
+    public ArrayList<SuratDetailDTO> getPerJuz(int nomor) {
+        return new ArrayList<>(List.of(readFile(nomor)));
     }
 
     public SuratDetailDTO readFile(int nomor) {
