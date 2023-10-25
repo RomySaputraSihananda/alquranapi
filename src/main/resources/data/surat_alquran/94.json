@@ -1,0 +1,50 @@
+{
+    "nomor": 94,
+    "nama": "الشرح",
+    "namaLatin": "Asy-Syarh",
+    "jumlahAyat": 8,
+    "tempatTurun": "Mekah",
+    "arti": "Lapang",
+    "ayat": {
+        "1": {
+            "teksArab": "اَلَمْ نَشْرَحْ لَكَ صَدْرَكَۙ",
+            "teksLatin": "alam nasyraḥ laka ṣadrak(a).",
+            "teksIndonesia": "Bukankah Kami telah melapangkan dadamu (Muhammad)?"
+        },
+        "2": {
+            "teksArab": "وَوَضَعْنَا عَنْكَ وِزْرَكَۙ",
+            "teksLatin": "wa waḍa‘nā ‘anka wizrak(a).",
+            "teksIndonesia": "dan Kami pun telah menurunkan bebanmu darimu,"
+        },
+        "3": {
+            "teksArab": "الَّذِيْٓ اَنْقَضَ ظَهْرَكَۙ",
+            "teksLatin": "allażī anqaḍa ẓahrak(a).",
+            "teksIndonesia": "yang memberatkan punggungmu, "
+        },
+        "4": {
+            "teksArab": "وَرَفَعْنَا لَكَ ذِكْرَكَۗ",
+            "teksLatin": "wa rafa‘nā laka żikrak(a).",
+            "teksIndonesia": "dan Kami tinggikan sebutan (nama)mu bagimu."
+        },
+        "5": {
+            "teksArab": "فَاِنَّ مَعَ الْعُسْرِ يُسْرًاۙ",
+            "teksLatin": "fa'inna ma‘al-‘usri yusrā(n).",
+            "teksIndonesia": "Maka sesungguhnya beserta kesulitan ada kemudahan,"
+        },
+        "6": {
+            "teksArab": "اِنَّ مَعَ الْعُسْرِ يُسْرًاۗ",
+            "teksLatin": "inna ma‘al-‘usri yusrā(n).",
+            "teksIndonesia": "sesungguhnya beserta kesulitan itu ada kemudahan."
+        },
+        "7": {
+            "teksArab": "فَاِذَا فَرَغْتَ فَانْصَبْۙ",
+            "teksLatin": "fa iżā faragta fanṣab.",
+            "teksIndonesia": "Maka apabila engkau telah selesai (dari sesuatu urusan), tetaplah bekerja keras (untuk urusan yang lain),"
+        },
+        "8": {
+            "teksArab": "وَاِلٰى رَبِّكَ فَارْغَبْ ࣖ",
+            "teksLatin": "wa ilā rabbika fargab.",
+            "teksIndonesia": "dan hanya kepada Tuhanmulah engkau berharap."
+        }
+    }
+}

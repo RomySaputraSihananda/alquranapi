@@ -1,0 +1,30 @@
+{
+    "nomor": 112,
+    "nama": "الاخلاص",
+    "namaLatin": "Al-Ikhlas",
+    "jumlahAyat": 4,
+    "tempatTurun": "Mekah",
+    "arti": "Ikhlas",
+    "ayat": {
+        "1": {
+            "teksArab": "قُلْ هُوَ اللّٰهُ اَحَدٌۚ",
+            "teksLatin": "qul huwallāhu aḥad(un).",
+            "teksIndonesia": "Katakanlah (Muhammad), “Dialah Allah, Yang Maha Esa."
+        },
+        "2": {
+            "teksArab": "اَللّٰهُ الصَّمَدُۚ",
+            "teksLatin": "allāhuṣ-ṣamad(u).",
+            "teksIndonesia": "Allah tempat meminta segala sesuatu."
+        },
+        "3": {
+            "teksArab": "لَمْ يَلِدْ وَلَمْ يُوْلَدْۙ",
+            "teksLatin": "lam yalid wa lam yūlad.",
+            "teksIndonesia": "(Allah) tidak beranak dan tidak pula diperanakkan."
+        },
+        "4": {
+            "teksArab": "وَلَمْ يَكُنْ لَّهٗ كُفُوًا اَحَدٌ ࣖ",
+            "teksLatin": "wa lam yakul lahū kufuwan aḥad(un).",
+            "teksIndonesia": "Dan tidak ada sesuatu yang setara dengan Dia.”"
+        }
+    }
+}

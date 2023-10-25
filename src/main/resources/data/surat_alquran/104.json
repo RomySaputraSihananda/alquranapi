@@ -1,0 +1,55 @@
+{
+    "nomor": 104,
+    "nama": "الهمزة",
+    "namaLatin": "Al-Humazah",
+    "jumlahAyat": 9,
+    "tempatTurun": "Mekah",
+    "arti": "Pengumpat",
+    "ayat": {
+        "1": {
+            "teksArab": "وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍۙ",
+            "teksLatin": "wailul likulli humazatil-lumazah(tin).",
+            "teksIndonesia": "Celakalah bagi setiap pengumpat dan pencela,"
+        },
+        "2": {
+            "teksArab": " ۨالَّذِيْ جَمَعَ مَالًا وَّعَدَّدَهٗۙ",
+            "teksLatin": "allażī jama‘a mālaw wa ‘addadah(ū).",
+            "teksIndonesia": "yang mengumpulkan harta dan menghitung-hitungnya,"
+        },
+        "3": {
+            "teksArab": "يَحْسَبُ اَنَّ مَالَهٗٓ اَخْلَدَهٗۚ",
+            "teksLatin": "yaḥsabu anna mālahū akhladah(ū).",
+            "teksIndonesia": "dia (manusia) mengira bahwa hartanya itu dapat mengekalkannya."
+        },
+        "4": {
+            "teksArab": "كَلَّا لَيُنْۢبَذَنَّ فِى الْحُطَمَةِۖ",
+            "teksLatin": "kallā layumbażanna fil-ḥuṭamah(ti).",
+            "teksIndonesia": "Sekali-kali tidak! Pasti dia akan dilemparkan ke dalam (neraka) Hutamah."
+        },
+        "5": {
+            "teksArab": "وَمَآ اَدْرٰىكَ مَا الْحُطَمَةُ ۗ",
+            "teksLatin": "wa mā adrāka mal-ḥuṭamah(tu).",
+            "teksIndonesia": "Dan tahukah kamu apakah (neraka) Hutamah itu?"
+        },
+        "6": {
+            "teksArab": "نَارُ اللّٰهِ الْمُوْقَدَةُۙ",
+            "teksLatin": "nārullāhil-mūqadah(tu).",
+            "teksIndonesia": "(Yaitu) api  (azab) Allah yang dinyalakan,"
+        },
+        "7": {
+            "teksArab": "الَّتِيْ تَطَّلِعُ عَلَى الْاَفْـِٕدَةِۗ",
+            "teksLatin": "allatī taṭṭali‘u ‘alal-af'idah(ti).",
+            "teksIndonesia": "yang (membakar) sampai ke hati."
+        },
+        "8": {
+            "teksArab": "اِنَّهَا عَلَيْهِمْ مُّؤْصَدَةٌۙ",
+            "teksLatin": "innahā ‘alaihim mu'ṣadah(tun).",
+            "teksIndonesia": "Sungguh, api itu ditutup rapat atas (diri) mereka,"
+        },
+        "9": {
+            "teksArab": "فِيْ عَمَدٍ مُّمَدَّدَةٍ ࣖ",
+            "teksLatin": "fī ‘amadim mumaddadah(tin).",
+            "teksIndonesia": "(sedang mereka itu) diikat pada tiang-tiang yang panjang."
+        }
+    }
+}

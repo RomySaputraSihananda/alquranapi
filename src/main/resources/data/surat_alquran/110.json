@@ -1,0 +1,25 @@
+{
+    "nomor": 110,
+    "nama": "النصر",
+    "namaLatin": "An-Nasr",
+    "jumlahAyat": 3,
+    "tempatTurun": "Madinah",
+    "arti": "Pertolongan",
+    "ayat": {
+        "1": {
+            "teksArab": "اِذَا جَاۤءَ نَصْرُ اللّٰهِ وَالْفَتْحُۙ",
+            "teksLatin": "iżā jā'a naṣrullāhi wal-fatḥ(u).",
+            "teksIndonesia": "Apabila telah datang pertolongan Allah dan kemenangan,"
+        },
+        "2": {
+            "teksArab": "وَرَاَيْتَ النَّاسَ يَدْخُلُوْنَ فِيْ دِيْنِ اللّٰهِ اَفْوَاجًاۙ",
+            "teksLatin": "wa ra'aitan-nāsa yadkhulūna fī dīnillāhi afwājā(n).",
+            "teksIndonesia": "dan engkau melihat manusia berbondong-bondong masuk agama Allah,"
+        },
+        "3": {
+            "teksArab": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُۗ اِنَّهٗ كَانَ تَوَّابًا ࣖ",
+            "teksLatin": "fasabbiḥ biḥamdi rabbika wastagfirh(u), innahū kāna tawwābā(n).",
+            "teksIndonesia": "maka bertasbihlah dalam dengan Tuhanmu dan mohonlah ampunan kepada-Nya. Sungguh, Dia Maha Penerima tobat."
+        }
+    }
+}

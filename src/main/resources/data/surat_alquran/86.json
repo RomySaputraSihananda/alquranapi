@@ -1,0 +1,95 @@
+{
+    "nomor": 86,
+    "nama": "الطارق",
+    "namaLatin": "At-Tariq",
+    "jumlahAyat": 17,
+    "tempatTurun": "Mekah",
+    "arti": "Yang Datang Di Malam Hari",
+    "ayat": {
+        "1": {
+            "teksArab": "وَالسَّمَاۤءِ وَالطَّارِقِۙ ",
+            "teksLatin": "was-samā'i waṭ-ṭāriq(i).",
+            "teksIndonesia": "Demi langit dan yang datang pada malam hari."
+        },
+        "2": {
+            "teksArab": "وَمَآ اَدْرٰىكَ مَا الطَّارِقُۙ ",
+            "teksLatin": "wa mā adrāka maṭ-ṭāriq(u).",
+            "teksIndonesia": "Dan tahukah kamu apakah yang datang pada malam hari itu?"
+        },
+        "3": {
+            "teksArab": "النَّجْمُ الثَّاقِبُۙ ",
+            "teksLatin": "an-najmuṡ-ṡāqib(u).",
+            "teksIndonesia": "(yaitu) bintang yang bersinar tajam,"
+        },
+        "4": {
+            "teksArab": "اِنْ كُلُّ نَفْسٍ لَّمَّا عَلَيْهَا حَافِظٌۗ ",
+            "teksLatin": "in kullu nafsil lammā ‘alaihā ḥāfiẓ(un).",
+            "teksIndonesia": "setiap orang pasti ada penjaganya."
+        },
+        "5": {
+            "teksArab": "فَلْيَنْظُرِ الْاِنْسَانُ مِمَّ خُلِقَ ",
+            "teksLatin": "falyanẓuril-insānu mimma khuliq(a).",
+            "teksIndonesia": "Maka hendaklah manusia memperhatikan dari apa dia diciptakan."
+        },
+        "6": {
+            "teksArab": "خُلِقَ مِنْ مَّاۤءٍ دَافِقٍۙ ",
+            "teksLatin": "khuliqa mim mā'in dāfiq(in).",
+            "teksIndonesia": "Dia diciptakan dari air (mani) yang terpancar,"
+        },
+        "7": {
+            "teksArab": "يَّخْرُجُ مِنْۢ بَيْنِ الصُّلْبِ وَالتَّرَاۤىِٕبِۗ ",
+            "teksLatin": "yakhruju mim bainiṣ-ṣulbi wat-tarā'ib(i).",
+            "teksIndonesia": "yang keluar dari antara tulang punggung (sulbi) dan tulang dada."
+        },
+        "8": {
+            "teksArab": "اِنَّهٗ عَلٰى رَجْعِهٖ لَقَادِرٌۗ ",
+            "teksLatin": "innahū ‘alā raj‘ihī laqādir(un).",
+            "teksIndonesia": "Sungguh, Allah benar-benar kuasa untuk mengembalikannya (hidup setelah mati)."
+        },
+        "9": {
+            "teksArab": "يَوْمَ تُبْلَى السَّرَاۤىِٕرُۙ ",
+            "teksLatin": "yauma tublas-sarā'ir(u).",
+            "teksIndonesia": "Pada hari ditampakkan segala rahasia,"
+        },
+        "10": {
+            "teksArab": "فَمَا لَهٗ مِنْ قُوَّةٍ وَّلَا نَاصِرٍۗ ",
+            "teksLatin": "famā lahū min quwwatiw wa lā nāṣir(in).",
+            "teksIndonesia": "maka manusia tidak lagi mempunyai suatu kekuatan dan tidak (pula) ada penolong."
+        },
+        "11": {
+            "teksArab": "وَالسَّمَاۤءِ ذَاتِ الرَّجْعِۙ ",
+            "teksLatin": "was-samā'i żātir-raj‘(i).",
+            "teksIndonesia": "Demi langit yang mengandung hujan,"
+        },
+        "12": {
+            "teksArab": "وَالْاَرْضِ ذَاتِ الصَّدْعِۙ ",
+            "teksLatin": "wal-arḍi żātiṣ-ṣad‘(i).",
+            "teksIndonesia": "dan bumi yang mempunyai tumbuh-tumbuhan,"
+        },
+        "13": {
+            "teksArab": "اِنَّهٗ لَقَوْلٌ فَصْلٌۙ ",
+            "teksLatin": "innahū laqaulun faṣl(un).",
+            "teksIndonesia": "sungguh, (Al-Qur'an) itu benar-benar firman pemisah (antara yang hak dan yang batil),"
+        },
+        "14": {
+            "teksArab": "وَّمَا هُوَ بِالْهَزْلِۗ ",
+            "teksLatin": "wa mā huwa bil-hazl(i).",
+            "teksIndonesia": "dan (Al-Qur'an) itu bukanlah sendagurauan."
+        },
+        "15": {
+            "teksArab": "اِنَّهُمْ يَكِيْدُوْنَ كَيْدًاۙ ",
+            "teksLatin": "innahum yakīdūna kaidā(n).",
+            "teksIndonesia": "Sungguh, mereka (orang kafir) merencanakan tipu daya yang jahat."
+        },
+        "16": {
+            "teksArab": "وَّاَكِيْدُ كَيْدًاۖ ",
+            "teksLatin": "wa akīdu kaidā(n).",
+            "teksIndonesia": "Dan Aku pun membuat rencana (tipu daya) yang jitu."
+        },
+        "17": {
+            "teksArab": "فَمَهِّلِ الْكٰفِرِيْنَ اَمْهِلْهُمْ رُوَيْدًا ࣖ ",
+            "teksLatin": "fa mahhilil-kāfirīna amhilhum ruwaidā(n).",
+            "teksIndonesia": "Karena itu berilah penangguhan kepada orang-orang kafir itu. Berilah mereka itu kesempatan untuk sementara waktu."
+        }
+    }
+}

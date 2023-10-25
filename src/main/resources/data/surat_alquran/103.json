@@ -1,0 +1,25 @@
+{
+    "nomor": 103,
+    "nama": "العصر",
+    "namaLatin": "Al-'Asr",
+    "jumlahAyat": 3,
+    "tempatTurun": "Mekah",
+    "arti": "Asar",
+    "ayat": {
+        "1": {
+            "teksArab": "وَالْعَصْرِۙ",
+            "teksLatin": "wal-‘aṣr(i).",
+            "teksIndonesia": "Demi masa,"
+        },
+        "2": {
+            "teksArab": "اِنَّ الْاِنْسَانَ لَفِيْ خُسْرٍۙ",
+            "teksLatin": "innal-insāna lafī khusr(in).",
+            "teksIndonesia": "sungguh, manusia berada dalam kerugian,"
+        },
+        "3": {
+            "teksArab": "اِلَّا الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ وَتَوَاصَوْا بِالْحَقِّ ەۙ وَتَوَاصَوْا بِالصَّبْرِ ࣖ",
+            "teksLatin": "illal-lażīna āmanū wa ‘amiluṣ-ṣāliḥāti wa tawāṣau bil-ḥaqq(i), wa tawāṣau biṣ-ṣabr(i).",
+            "teksIndonesia": "kecuali orang-orang yang beriman dan mengerjakan kebajikan serta saling menasihati untuk kebenaran dan saling menasihati untuk kesabaran."
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "nomor": 113,
+    "nama": "الفلق",
+    "namaLatin": "Al-Falaq",
+    "jumlahAyat": 5,
+    "tempatTurun": "Mekah",
+    "arti": "Subuh",
+    "ayat": {
+        "1": {
+            "teksArab": "قُلْ اَعُوْذُ بِرَبِّ الْفَلَقِۙ",
+            "teksLatin": "qul a‘ūżu birabbil-falaq(i).",
+            "teksIndonesia": "Katakanlah, “Aku berlindung kepada Tuhan yang menguasai subuh (fajar),"
+        },
+        "2": {
+            "teksArab": "مِنْ شَرِّ مَا خَلَقَۙ",
+            "teksLatin": "min syarri mā khalaq(a).",
+            "teksIndonesia": "dari kejahatan (makhluk yang) Dia ciptakan,"
+        },
+        "3": {
+            "teksArab": "وَمِنْ شَرِّ غَاسِقٍ اِذَا وَقَبَۙ",
+            "teksLatin": "wa min syarri gāsiqin iżā waqab(a).",
+            "teksIndonesia": "dan dari kejahatan malam apabila telah gelap gulita,"
+        },
+        "4": {
+            "teksArab": "وَمِنْ شَرِّ النَّفّٰثٰتِ فِى الْعُقَدِۙ",
+            "teksLatin": "wa min syarrin-naffāṡāti fil-‘uqad(i).",
+            "teksIndonesia": "dan dari kejahatan (perempuan-perempuan) penyihir yang meniup pada buhul-buhul (talinya),"
+        },
+        "5": {
+            "teksArab": "وَمِنْ شَرِّ حَاسِدٍ اِذَا حَسَدَ ࣖ",
+            "teksLatin": "wa min syarri ḥāsidin iżā ḥasad(a).",
+            "teksIndonesia": "dan dari kejahatan orang yang dengki apabila dia dengki.”"
+        }
+    }
+}

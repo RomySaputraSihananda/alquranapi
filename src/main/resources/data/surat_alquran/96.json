@@ -1,0 +1,105 @@
+{
+    "nomor": 96,
+    "nama": "العلق",
+    "namaLatin": "Al-'Alaq",
+    "jumlahAyat": 19,
+    "tempatTurun": "Mekah",
+    "arti": "Segumpal Darah",
+    "ayat": {
+        "1": {
+            "teksArab": "اِقْرَأْ بِاسْمِ رَبِّكَ الَّذِيْ خَلَقَۚ",
+            "teksLatin": "iqra' bismi rabbikal-lażī khalaq(a).",
+            "teksIndonesia": "Bacalah dengan (menyebut) nama Tuhanmu yang menciptakan,"
+        },
+        "2": {
+            "teksArab": "خَلَقَ الْاِنْسَانَ مِنْ عَلَقٍۚ",
+            "teksLatin": "khalaqal-insāna min ‘alaq(in).",
+            "teksIndonesia": "Dia telah menciptakan manusia dari segumpal darah."
+        },
+        "3": {
+            "teksArab": "اِقْرَأْ وَرَبُّكَ الْاَكْرَمُۙ",
+            "teksLatin": "iqra' wa rabbukal-akram(u).",
+            "teksIndonesia": "Bacalah, dan Tuhanmulah Yang Mahamulia,"
+        },
+        "4": {
+            "teksArab": "الَّذِيْ عَلَّمَ بِالْقَلَمِۙ",
+            "teksLatin": "allażī ‘allama bil-qalam(i).",
+            "teksIndonesia": "Yang mengajar (manusia) dengan pena."
+        },
+        "5": {
+            "teksArab": "عَلَّمَ الْاِنْسَانَ مَا لَمْ يَعْلَمْۗ",
+            "teksLatin": "‘allamal-insāna mā lam ya‘lam.",
+            "teksIndonesia": "Dia mengajarkan manusia apa yang tidak diketahuinya."
+        },
+        "6": {
+            "teksArab": "كَلَّآ اِنَّ الْاِنْسَانَ لَيَطْغٰىٓ ۙ",
+            "teksLatin": "kallā innal-insāna layaṭgā.",
+            "teksIndonesia": "Sekali-kali tidak! Sungguh, manusia itu benar-benar melampaui batas,"
+        },
+        "7": {
+            "teksArab": "اَنْ رَّاٰهُ اسْتَغْنٰىۗ",
+            "teksLatin": "ar ra'āhustagnā.",
+            "teksIndonesia": "apabila melihat dirinya serba cukup."
+        },
+        "8": {
+            "teksArab": "اِنَّ اِلٰى رَبِّكَ الرُّجْعٰىۗ",
+            "teksLatin": "inna ilā rabbikar-ruj‘ā.",
+            "teksIndonesia": "Sungguh, hanya kepada Tuhanmulah tempat kembali(mu)."
+        },
+        "9": {
+            "teksArab": "اَرَاَيْتَ الَّذِيْ يَنْهٰىۙ",
+            "teksLatin": "ara'aital-lażī yanhā.",
+            "teksIndonesia": "Bagaimana pendapatmu tentang orang yang melarang?"
+        },
+        "10": {
+            "teksArab": "عَبْدًا اِذَا صَلّٰىۗ",
+            "teksLatin": "‘abdan iżā ṣallā.",
+            "teksIndonesia": "seorang hamba ketika dia melaksanakan salat,"
+        },
+        "11": {
+            "teksArab": "اَرَاَيْتَ اِنْ كَانَ عَلَى الْهُدٰىٓۙ",
+            "teksLatin": "ara'aita in kāna ‘alal-hudā.",
+            "teksIndonesia": "bagaimana pendapatmu jika dia (yang dilarang salat itu) berada di atas kebenaran (petunjuk),"
+        },
+        "12": {
+            "teksArab": "اَوْ اَمَرَ بِالتَّقْوٰىۗ",
+            "teksLatin": "au amara bit-taqwā.",
+            "teksIndonesia": "atau dia menyuruh bertakwa (kepada Allah)?"
+        },
+        "13": {
+            "teksArab": "اَرَاَيْتَ اِنْ كَذَّبَ وَتَوَلّٰىۗ",
+            "teksLatin": "ara'aita in każżaba wa tawallā.",
+            "teksIndonesia": "Bagaimana pendapatmu jika dia (yang melarang) itu mendustakan dan berpaling?"
+        },
+        "14": {
+            "teksArab": "اَلَمْ يَعْلَمْ بِاَنَّ اللّٰهَ يَرٰىۗ",
+            "teksLatin": "alam ya‘lam bi'annallāha yarā.",
+            "teksIndonesia": "Tidakkah dia mengetahui bahwa sesungguhnya Allah melihat (segala perbuatannya)?"
+        },
+        "15": {
+            "teksArab": "كَلَّا لَىِٕنْ لَّمْ يَنْتَهِ ەۙ لَنَسْفَعًاۢ بِالنَّاصِيَةِۙ",
+            "teksLatin": "kallā la'il lam yantah(i), lanasfa‘am bin-nāṣiyah(ti).",
+            "teksIndonesia": "Sekali-kali tidak! Sungguh, jika dia tidak berhenti (berbuat demikian) niscaya Kami tarik ubun-ubunnya, (ke dalam neraka),"
+        },
+        "16": {
+            "teksArab": "نَاصِيَةٍ كَاذِبَةٍ خَاطِئَةٍۚ",
+            "teksLatin": "nāṣiyatin kāżibatin khāṭi'ah(tin).",
+            "teksIndonesia": "yaitu) ubun-ubun orang yang mendustakan dan durhaka."
+        },
+        "17": {
+            "teksArab": "فَلْيَدْعُ نَادِيَهٗۙ",
+            "teksLatin": "falyad‘u nādiyah(ū).",
+            "teksIndonesia": "Maka biarlah dia memanggil golongannya (untuk menolongnya),"
+        },
+        "18": {
+            "teksArab": "سَنَدْعُ الزَّبَانِيَةَۙ",
+            "teksLatin": "sanad‘uz-zabāniyah(ta).",
+            "teksIndonesia": "Kelak Kami akan memanggil Malaikat Zabaniyah, (penyiksa orang-orang yang berdosa), "
+        },
+        "19": {
+            "teksArab": "كَلَّاۗ  لَا تُطِعْهُ وَاسْجُدْ وَاقْتَرِبْ ۩ ࣖ",
+            "teksLatin": "kallā, lā tuṭi‘hu wasjud waqtarib.",
+            "teksIndonesia": "sekali-kali tidak! Janganlah kamu patuh kepadanya; dan sujudlah serta dekatkanlah (dirimu kepada Allah)."
+        }
+    }
+}

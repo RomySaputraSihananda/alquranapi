@@ -1,0 +1,25 @@
+{
+    "nomor": 108,
+    "nama": "الكوثر",
+    "namaLatin": "Al-Kausar",
+    "jumlahAyat": 3,
+    "tempatTurun": "Mekah",
+    "arti": "Pemberian Yang Banyak",
+    "ayat": {
+        "1": {
+            "teksArab": "اِنَّآ اَعْطَيْنٰكَ الْكَوْثَرَۗ",
+            "teksLatin": "innā a‘ṭainākal-kauṡar(a).",
+            "teksIndonesia": "Sungguh, Kami telah memberimu (Muhammad) nikmat yang banyak."
+        },
+        "2": {
+            "teksArab": "فَصَلِّ لِرَبِّكَ وَانْحَرْۗ",
+            "teksLatin": "faṣalli lirabbika wanḥar.",
+            "teksIndonesia": "Maka laksanakanlah salat karena Tuhanmu, dan berkurbanlah (sebagai ibadah dan mendekatkan diri kepada Allah)."
+        },
+        "3": {
+            "teksArab": "اِنَّ شَانِئَكَ هُوَ الْاَبْتَرُ ࣖ",
+            "teksLatin": "inna syāni'aka huwal-abtar(u).",
+            "teksIndonesia": "Sungguh, orang-orang yang membencimu dialah yang terputus (dari rahmat Allah)."
+        }
+    }
+}

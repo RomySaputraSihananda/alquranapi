@@ -1,0 +1,65 @@
+{
+    "nomor": 100,
+    "nama": "العٰديٰت",
+    "namaLatin": "Al-'Adiyat",
+    "jumlahAyat": 11,
+    "tempatTurun": "Mekah",
+    "arti": "Kuda Yang Berlari Kencang",
+    "ayat": {
+        "1": {
+            "teksArab": "وَالْعٰدِيٰتِ ضَبْحًاۙ ",
+            "teksLatin": "wal-‘ādiyāti ḍabḥā(n).",
+            "teksIndonesia": "Demi kuda perang yang berlari kencang terengah-engah,"
+        },
+        "2": {
+            "teksArab": "فَالْمُوْرِيٰتِ قَدْحًاۙ",
+            "teksLatin": "fal-mūriyāti qadḥā(n).",
+            "teksIndonesia": "dan kuda yang memercikkan bunga api (dengan pukulan kuku kakinya),"
+        },
+        "3": {
+            "teksArab": "فَالْمُغِيْرٰتِ صُبْحًاۙ",
+            "teksLatin": "fal-mugīrāti ṣubḥā(n).",
+            "teksIndonesia": "dan kuda yang menyerang (dengan tiba-tiba) pada waktu pagi,"
+        },
+        "4": {
+            "teksArab": "فَاَثَرْنَ بِهٖ نَقْعًاۙ",
+            "teksLatin": "fa'aṡarna bihī naq‘ā(n).",
+            "teksIndonesia": "sehingga menerbangkan debu,"
+        },
+        "5": {
+            "teksArab": "فَوَسَطْنَ بِهٖ جَمْعًاۙ",
+            "teksLatin": "fawasaṭna bihī jam‘ā(n).",
+            "teksIndonesia": "lalu menyerbu ke tengah-tengah kumpulan musuh,"
+        },
+        "6": {
+            "teksArab": "اِنَّ الْاِنْسَانَ لِرَبِّهٖ لَكَنُوْدٌ ۚ",
+            "teksLatin": "innal-insāna lirabbihī lakanūd(un).",
+            "teksIndonesia": "sungguh, manusia itu sangat ingkar, (tidak bersyukur) kepada Tuhannya,"
+        },
+        "7": {
+            "teksArab": "وَاِنَّهٗ عَلٰى ذٰلِكَ لَشَهِيْدٌۚ",
+            "teksLatin": "wa innahū ‘alā żālika lasyahīd(un).",
+            "teksIndonesia": "dan sesungguhnya dia (manusia) menyaksikan (mengakui) keingkarannya,"
+        },
+        "8": {
+            "teksArab": "وَاِنَّهٗ لِحُبِّ الْخَيْرِ لَشَدِيْدٌ ۗ",
+            "teksLatin": "wa innahū liḥubbil-khairi lasyadīd(un).",
+            "teksIndonesia": "dan sesungguhnya cintanya kepada harta benar-benar berlebihan."
+        },
+        "9": {
+            "teksArab": "۞ اَفَلَا يَعْلَمُ اِذَا بُعْثِرَ مَا فِى الْقُبُوْرِۙ",
+            "teksLatin": "afalā ya‘lamu iżā bu‘ṡira mā fil-qubūr(i).",
+            "teksIndonesia": "Maka tidakkah dia mengetahui apabila apa yang di dalam kubur dikeluarkan,"
+        },
+        "10": {
+            "teksArab": "وَحُصِّلَ مَا فِى الصُّدُوْرِۙ",
+            "teksLatin": "wa ḥuṣṣila mā fiṣ-ṣudūr(i).",
+            "teksIndonesia": "dan apa yang tersimpan di dalam dada dilahirkan?"
+        },
+        "11": {
+            "teksArab": "اِنَّ رَبَّهُمْ بِهِمْ يَوْمَىِٕذٍ لَّخَبِيْرٌ ࣖ",
+            "teksLatin": "inna rabbahum bihim yauma'iżil lakhabīr(un).",
+            "teksIndonesia": "sungguh, Tuhan mereka pada hari itu Mahateliti terhadap keadaan mereka."
+        }
+    }
+}

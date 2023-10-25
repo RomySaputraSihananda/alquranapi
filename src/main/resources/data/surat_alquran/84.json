@@ -1,0 +1,135 @@
+{
+    "nomor": 84,
+    "nama": "الانشقاق",
+    "namaLatin": "Al-Insyiqaq",
+    "jumlahAyat": 25,
+    "tempatTurun": "Mekah",
+    "arti": "Terbelah",
+    "ayat": {
+        "1": {
+            "teksArab": "اِذَا السَّمَاۤءُ انْشَقَّتْۙ ",
+            "teksLatin": "iżas-samā'unsyaqqat.",
+            "teksIndonesia": "Apabila langit terbelah,"
+        },
+        "2": {
+            "teksArab": "وَاَذِنَتْ لِرَبِّهَا وَحُقَّتْۙ ",
+            "teksLatin": "wa ażinat lirabbihā wa ḥuqqat.",
+            "teksIndonesia": "dan patuh kepada Tuhannya, dan sudah semestinya patuh, "
+        },
+        "3": {
+            "teksArab": "وَاِذَا الْاَرْضُ مُدَّتْۙ ",
+            "teksLatin": "wa iẓal-arḍu muddat.",
+            "teksIndonesia": "dan apabila bumi diratakan, "
+        },
+        "4": {
+            "teksArab": "وَاَلْقَتْ مَا فِيْهَا وَتَخَلَّتْۙ ",
+            "teksLatin": "wa alqat mā fīhā wa takhallat.",
+            "teksIndonesia": "dan memuntahkan apa yang ada di dalamnya dan menjadi kosong,"
+        },
+        "5": {
+            "teksArab": "وَاَذِنَتْ لِرَبِّهَا وَحُقَّتْۗ ",
+            "teksLatin": "wa ażinat lirabbihā wa ḥuqqat.",
+            "teksIndonesia": "dan patuh kepada Tuhannya, dan sudah semestinya patuh."
+        },
+        "6": {
+            "teksArab": "يٰٓاَيُّهَا الْاِنْسَانُ اِنَّكَ كَادِحٌ اِلٰى رَبِّكَ كَدْحًا فَمُلٰقِيْهِۚ ",
+            "teksLatin": "yā ayyuhal-insānu innaka kādiḥun ilā rabbika kadḥan fa mulāqīh(i).",
+            "teksIndonesia": "Wahai manusia! Sesungguhnya kamu telah bekerja keras menuju Tuhanmu, maka kamu akan menemui-Nya."
+        },
+        "7": {
+            "teksArab": "فَاَمَّا مَنْ اُوْتِيَ كِتٰبَهٗ بِيَمِيْنِهٖۙ ",
+            "teksLatin": "fa ammā man ūtiya kitābahū biyamīnih(ī).",
+            "teksIndonesia": "Maka adapun orang yang catatannya diberikan dari sebelah kanannya, "
+        },
+        "8": {
+            "teksArab": "فَسَوْفَ يُحَاسَبُ حِسَابًا يَّسِيْرًاۙ ",
+            "teksLatin": "fa saufa yuḥāsabu ḥisābay yasīrā(n).",
+            "teksIndonesia": "maka dia akan diperiksa dengan pemeriksaan yang mudah, "
+        },
+        "9": {
+            "teksArab": "وَّيَنْقَلِبُ اِلٰٓى اَهْلِهٖ مَسْرُوْرًاۗ ",
+            "teksLatin": "wa yanqalibu ilā ahlihī masrūrā(n).",
+            "teksIndonesia": "dan dia akan kembali kepada keluarganya (yang sama-sama beriman) dengan gembira."
+        },
+        "10": {
+            "teksArab": "وَاَمَّا مَنْ اُوْتِيَ كِتٰبَهٗ وَرَاۤءَ ظَهْرِهٖۙ ",
+            "teksLatin": "wa ammā man ūtiya kitābahū warā'a ẓahrih(ī).",
+            "teksIndonesia": "Dan adapun orang yang catatannya diberikan dari sebelah belakang, "
+        },
+        "11": {
+            "teksArab": "فَسَوْفَ يَدْعُوْا ثُبُوْرًاۙ ",
+            "teksLatin": "fa saufa yad‘ū ṡubūrā(n).",
+            "teksIndonesia": "maka dia akan berteriak, “Celakalah aku!” "
+        },
+        "12": {
+            "teksArab": "وَّيَصْلٰى سَعِيْرًاۗ ",
+            "teksLatin": "wa yaṣlā sa‘īrā(n).",
+            "teksIndonesia": "Dan dia akan masuk ke dalam api yang menyala-nyala (neraka)."
+        },
+        "13": {
+            "teksArab": "اِنَّهٗ كَانَ فِيْٓ اَهْلِهٖ مَسْرُوْرًاۗ ",
+            "teksLatin": "innahū kāna fī ahlihī masrūrā(n).",
+            "teksIndonesia": "Sungguh, dia dahulu (di dunia) bergembira di kalangan keluarganya (yang sama-sama kafir). "
+        },
+        "14": {
+            "teksArab": "اِنَّهٗ ظَنَّ اَنْ لَّنْ يَّحُوْرَ ۛ ",
+            "teksLatin": "innahū ẓanna allay yaḥūr(a).",
+            "teksIndonesia": "Sesungguhnya dia mengira bahwa dia tidak akan kembali (kepada Tuhannya). "
+        },
+        "15": {
+            "teksArab": "بَلٰىۛ اِنَّ رَبَّهٗ كَانَ بِهٖ بَصِيْرًاۗ ",
+            "teksLatin": "balā, inna rabbahū kāna bihī baṣīrā(n).",
+            "teksIndonesia": "Tidak demikian, sesungguhnya Tuhannya selalu melihatnya. "
+        },
+        "16": {
+            "teksArab": "فَلَآ اُقْسِمُ بِالشَّفَقِۙ ",
+            "teksLatin": "falā uqsimu bisy-syafaq(i).",
+            "teksIndonesia": "Maka Aku bersumpah demi cahaya merah pada waktu senja, "
+        },
+        "17": {
+            "teksArab": "وَالَّيْلِ وَمَا وَسَقَۙ ",
+            "teksLatin": "wal-laili wa mā wasaq(a).",
+            "teksIndonesia": "demi malam dan apa yang diselubunginya,"
+        },
+        "18": {
+            "teksArab": "وَالْقَمَرِ اِذَا اتَّسَقَۙ ",
+            "teksLatin": "wal-qamari iżattasaq(a).",
+            "teksIndonesia": "demi bulan apabila jadi purnama,"
+        },
+        "19": {
+            "teksArab": "لَتَرْكَبُنَّ طَبَقًا عَنْ طَبَقٍۗ ",
+            "teksLatin": "latarkabunna ṭabaqan ‘an ṭabaq(in).",
+            "teksIndonesia": "sungguh, akan kamu jalani tingkat demi tingkat (dalam kehidupan)."
+        },
+        "20": {
+            "teksArab": "فَمَا لَهُمْ لَا يُؤْمِنُوْنَۙ ",
+            "teksLatin": "famā lahum lā yu'minūn(a).",
+            "teksIndonesia": "Maka mengapa mereka tidak mau beriman?"
+        },
+        "21": {
+            "teksArab": "وَاِذَا قُرِئَ عَلَيْهِمُ الْقُرْاٰنُ لَا يَسْجُدُوْنَ ۗ ۩ ",
+            "teksLatin": "wa iżā quri'a ‘alaihimul-qur'ānu lā yasjudūn(a).",
+            "teksIndonesia": "Dan apabila Al-Qur'an dibacakan kepada mereka, mereka tidak (mau) bersujud,"
+        },
+        "22": {
+            "teksArab": "بَلِ الَّذِيْنَ كَفَرُوْا يُكَذِّبُوْنَۖ ",
+            "teksLatin": "balil-lażīna kafarū yukażżibūn(a).",
+            "teksIndonesia": "bahkan orang-orang kafir itu mendustakan(nya)."
+        },
+        "23": {
+            "teksArab": "وَاللّٰهُ اَعْلَمُ بِمَا يُوْعُوْنَۖ ",
+            "teksLatin": "wallāhu a‘lamu bimā yū‘ūn(a).",
+            "teksIndonesia": "Dan Allah lebih mengetahui apa yang mereka sembunyikan (dalam hati mereka)."
+        },
+        "24": {
+            "teksArab": "فَبَشِّرْهُمْ بِعَذَابٍ اَلِيْمٍۙ ",
+            "teksLatin": "fa basysyirhum bi‘ażābin alīm(in).",
+            "teksIndonesia": "Maka sampaikanlah kepada mereka (ancaman) azab yang pedih,"
+        },
+        "25": {
+            "teksArab": "اِلَّا الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ لَهُمْ اَجْرٌ غَيْرُ مَمْنُوْنٍ ࣖ ",
+            "teksLatin": "illal-lażīna āmanū wa ‘amiluṣ-ṣāliḥāti lahum ajrun gairu mamnūn(in).",
+            "teksIndonesia": "kecuali orang-orang yang beriman dan mengerjakan kebajikan, mereka akan mendapat pahala yang tidak putus-putusnya."
+        }
+    }
+}

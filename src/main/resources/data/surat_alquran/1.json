@@ -1,0 +1,45 @@
+{
+    "nomor": 1,
+    "nama": "الفاتحة",
+    "namaLatin": "Al-Fatihah",
+    "jumlahAyat": 7,
+    "tempatTurun": "Mekah",
+    "arti": "Pembukaan",
+    "ayat": {
+        "1": {
+            "teksArab": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+            "teksLatin": "bismillāhir-raḥmānir-raḥīm(i).",
+            "teksIndonesia": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+        },
+        "2": {
+            "teksArab": "اَلْحَمْدُ لِلّٰهِ رَبِّ الْعٰلَمِيْنَۙ",
+            "teksLatin": "al-ḥamdu lillāhi rabbil-‘ālamīn(a).",
+            "teksIndonesia": "Segala puji bagi Allah, Tuhan seluruh alam,"
+        },
+        "3": {
+            "teksArab": "الرَّحْمٰنِ الرَّحِيْمِۙ",
+            "teksLatin": "ar-raḥmānir-raḥīm(i).",
+            "teksIndonesia": "Yang Maha Pengasih, Maha Penyayang,"
+        },
+        "4": {
+            "teksArab": "مٰلِكِ يَوْمِ الدِّيْنِۗ",
+            "teksLatin": "māliki yaumid-dīn(i).",
+            "teksIndonesia": "Pemilik hari pembalasan."
+        },
+        "5": {
+            "teksArab": "اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَعِيْنُۗ",
+            "teksLatin": "iyyāka na‘budu wa iyyāka nasta‘īn(u),",
+            "teksIndonesia": "Hanya kepada Engkaulah kami menyembah dan hanya kepada Engkaulah kami mohon pertolongan."
+        },
+        "6": {
+            "teksArab": "اِهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَۙ",
+            "teksLatin": "ihdinaṣ-ṣirāṭal-mustaqīm(a).",
+            "teksIndonesia": "Tunjukilah kami jalan yang lurus,"
+        },
+        "7": {
+            "teksArab": "صِرَاطَ الَّذِيْنَ اَنْعَمْتَ عَلَيْهِمْ ەۙ غَيْرِ الْمَغْضُوْبِ عَلَيْهِمْ وَلَا الضَّاۤلِّيْنَ ࣖ",
+            "teksLatin": "Ṣirāṭal-lażīna an‘amta ‘alaihim, gairil-magḍūbi ‘alaihim wa laḍ-ḍāllīn(a).",
+            "teksIndonesia": "(yaitu) jalan orang-orang yang telah Engkau beri nikmat kepadanya; bukan (jalan) mereka yang dimurkai, dan bukan (pula jalan) mereka yang sesat."
+        }
+    }
+}

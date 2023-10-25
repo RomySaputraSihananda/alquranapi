@@ -1,0 +1,30 @@
+{
+    "nomor": 106,
+    "nama": "قريش",
+    "namaLatin": "Quraisy",
+    "jumlahAyat": 4,
+    "tempatTurun": "Mekah",
+    "arti": "Quraisy",
+    "ayat": {
+        "1": {
+            "teksArab": "لِاِيْلٰفِ قُرَيْشٍۙ",
+            "teksLatin": "li'īlāfi quraisy(in).",
+            "teksIndonesia": "Karena kebiasaan orang-orang Quraisy,"
+        },
+        "2": {
+            "teksArab": "اٖلٰفِهِمْ رِحْلَةَ الشِّتَاۤءِ وَالصَّيْفِۚ",
+            "teksLatin": "´lāfihim riḥlatasy-syitā'i waṣ-ṣaif(i).",
+            "teksIndonesia": "(yaitu) kebiasaan mereka bepergian pada musim dingin dan musim panas."
+        },
+        "3": {
+            "teksArab": "فَلْيَعْبُدُوْا رَبَّ هٰذَا الْبَيْتِۙ",
+            "teksLatin": "falya‘budū rabba hāżal-bait(i).",
+            "teksIndonesia": "Maka hendaklah mereka menyembah Tuhan (pemilik) rumah ini (Ka‘bah),"
+        },
+        "4": {
+            "teksArab": "الَّذِيْٓ اَطْعَمَهُمْ مِّنْ جُوْعٍ ەۙ وَّاٰمَنَهُمْ مِّنْ خَوْفٍ ࣖ",
+            "teksLatin": "allażī aṭ‘amahum min jū‘(in), wa āmanahum min khauf(in).",
+            "teksIndonesia": "yang telah memberi makanan kepada mereka untuk menghilangkan lapar dan mengamankan mereka dari rasa ketakutan."
+        }
+    }
+}

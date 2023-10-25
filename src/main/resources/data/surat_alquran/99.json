@@ -1,0 +1,50 @@
+{
+    "nomor": 99,
+    "nama": "الزلزلة",
+    "namaLatin": "Az-Zalzalah",
+    "jumlahAyat": 8,
+    "tempatTurun": "Madinah",
+    "arti": "Guncangan",
+    "ayat": {
+        "1": {
+            "teksArab": "اِذَا زُلْزِلَتِ الْاَرْضُ زِلْزَالَهَاۙ",
+            "teksLatin": "iżā zulzilatil-arḍu zilzālahā.",
+            "teksIndonesia": "Apabila bumi diguncangkan dengan guncangan yang dahsyat,"
+        },
+        "2": {
+            "teksArab": "وَاَخْرَجَتِ الْاَرْضُ اَثْقَالَهَاۙ",
+            "teksLatin": "wa akhrajatil-arḍu aṡqālahā.",
+            "teksIndonesia": "dan bumi telah mengeluarkan beban-beban berat (yang dikandung)nya,"
+        },
+        "3": {
+            "teksArab": "وَقَالَ الْاِنْسَانُ مَا لَهَاۚ",
+            "teksLatin": "wa qālal-insānu mā lahā.",
+            "teksIndonesia": "Dan manusia bertanya, “Apa yang terjadi pada bumi ini?”"
+        },
+        "4": {
+            "teksArab": "يَوْمَىِٕذٍ تُحَدِّثُ اَخْبَارَهَاۙ",
+            "teksLatin": "yauma'iżin tuḥaddiṡu akhbārahā.",
+            "teksIndonesia": "Pada hari itu bumi menyampaikan beritanya,"
+        },
+        "5": {
+            "teksArab": "بِاَنَّ رَبَّكَ اَوْحٰى لَهَاۗ",
+            "teksLatin": "bi'anna rabbaka auḥā lahā.",
+            "teksIndonesia": "karena sesungguhnya Tuhanmu telah memerintahkan (yang sedemikian itu) padanya."
+        },
+        "6": {
+            "teksArab": "يَوْمَىِٕذٍ يَّصْدُرُ النَّاسُ اَشْتَاتًا ەۙ لِّيُرَوْا اَعْمَالَهُمْۗ",
+            "teksLatin": "yauma'iżiy yaṣdurun-nāsu asytātā(n), liyurau a‘mālahum.",
+            "teksIndonesia": "Pada hari itu manusia keluar dari kuburnya dalam keadaan berkelompok-kelompok, untuk diperlihatkan kepada mereka (balasan) semua perbuatannya."
+        },
+        "7": {
+            "teksArab": "فَمَنْ يَّعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَّرَهٗۚ",
+            "teksLatin": "famay ya‘mal miṡqāla żarratin khairay yarah(ū).",
+            "teksIndonesia": "Maka barangsiapa mengerjakan kebaikan seberat zarrah, niscaya dia akan melihat (balasan)nya,"
+        },
+        "8": {
+            "teksArab": "وَمَنْ يَّعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَّرَهٗ ࣖ",
+            "teksLatin": "wa may ya‘mal miṡqāla żarratin syarray yarah(ū).",
+            "teksIndonesia": "dan barangsiapa mengerjakan kejahatan seberat zarrah, niscaya dia akan melihat (balasan)nya."
+        }
+    }
+}

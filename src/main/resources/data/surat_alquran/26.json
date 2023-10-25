@@ -1,0 +1,1145 @@
+{
+    "nomor": 26,
+    "nama": "الشعراۤء",
+    "namaLatin": "Asy-Syu'ara'",
+    "jumlahAyat": 227,
+    "tempatTurun": "Mekah",
+    "arti": "Para Penyair",
+    "ayat": {
+        "1": {
+            "teksArab": "طٰسۤمّۤ ",
+            "teksLatin": "Ṭā sīm mīm.",
+            "teksIndonesia": "Tha Sin Mim"
+        },
+        "2": {
+            "teksArab": "تِلْكَ اٰيٰتُ الْكِتٰبِ الْمُبِيْنِ",
+            "teksLatin": "tilka āyātul-kitābil-mubīn(i).",
+            "teksIndonesia": "Inilah ayat-ayat Kitab (Al-Qur'an) yang jelas."
+        },
+        "3": {
+            "teksArab": "لَعَلَّكَ بَاخِعٌ نَّفْسَكَ اَلَّا يَكُوْنُوْا مُؤْمِنِيْنَ ",
+            "teksLatin": "la‘allaka bākhi‘un nafsaka allā yakūnū mu'minīn(a).",
+            "teksIndonesia": "Boleh jadi engkau (Muhammad) akan membinasakan dirimu (dengan kesedihan), karena mereka (penduduk Mekah) tidak beriman."
+        },
+        "4": {
+            "teksArab": "اِنْ نَّشَأْ نُنَزِّلْ عَلَيْهِمْ مِّنَ السَّمَاۤءِ اٰيَةً فَظَلَّتْ اَعْنَاقُهُمْ لَهَا خٰضِعِيْنَ ",
+            "teksLatin": "in nasya' nunazzil ‘alaihim minas-samā'i āyatan fa ẓallat a‘nāquhum lahā khāḍi‘īn(a).",
+            "teksIndonesia": "Jika Kami menghendaki, niscaya Kami turunkan kepada mereka mukjizat dari langit, yang akan membuat tengkuk mereka tunduk dengan rendah hati kepadanya."
+        },
+        "5": {
+            "teksArab": "وَمَا يَأْتِيْهِمْ مِّنْ ذِكْرٍ مِّنَ الرَّحْمٰنِ مُحْدَثٍ اِلَّا كَانُوْا عَنْهُ مُعْرِضِيْنَ ",
+            "teksLatin": "wa mā ya'tīhim min żikrim minar-raḥmāni muḥdaṡin illā kānū ‘anhu mu‘riḍīn(a).",
+            "teksIndonesia": "Dan setiap kali disampaikan kepada mereka suatu peringatan baru (ayat Al-Qur'an yang diturunkan) dari Tuhan Yang Maha Pengasih, mereka selalu berpaling darinya."
+        },
+        "6": {
+            "teksArab": "فَقَدْ كَذَّبُوْا فَسَيَأْتِيْهِمْ اَنْۢبـٰۤؤُا مَا كَانُوْا بِهٖ يَسْتَهْزِءُوْنَ ",
+            "teksLatin": "faqad każżabū fa saya'tīhim ambā'u mā kānū bihī yastahzi'ūn(a).",
+            "teksIndonesia": "Sungguh, mereka telah mendustakan (Al-Qur'an), maka kelak akan datang kepada mereka (kebenaran) berita-berita mengenai apa (azab) yang dulu mereka perolok-olokkan."
+        },
+        "7": {
+            "teksArab": "اَوَلَمْ يَرَوْا اِلَى الْاَرْضِ كَمْ اَنْۢبَتْنَا فِيْهَا مِنْ كُلِّ زَوْجٍ كَرِيْمٍ ",
+            "teksLatin": "awalam yarau ilal-arḍi kam ambatnā fīhā min kulli zaujin karīm(in).",
+            "teksIndonesia": "Dan apakah mereka tidak memperhatikan bumi, betapa banyak Kami tumbuhkan di bumi itu berbagai macam pasangan (tumbuh-tumbuhan) yang baik?"
+        },
+        "8": {
+            "teksArab": "اِنَّ فِيْ ذٰلِكَ لَاٰيَةًۗ وَمَا كَانَ اَكْثَرُهُمْ مُّؤْمِنِيْنَ ",
+            "teksLatin": "inna fī żālika la'āyah(tan), wa mā kāna akṡaruhum mu'minīn(a).",
+            "teksIndonesia": "Sungguh, pada yang demikian itu terdapat tanda (kebesaran Allah), tetapi kebanyakan mereka tidak beriman."
+        },
+        "9": {
+            "teksArab": "وَاِنَّ رَبَّكَ لَهُوَ الْعَزِيْزُ الرَّحِيْمُ ࣖ ",
+            "teksLatin": "inna rabbaka lahuwal-‘azīzur-raḥīm(u).",
+            "teksIndonesia": "Dan sungguh, Tuhanmu Dialah Yang Mahaperkasa, Maha Penyayang."
+        },
+        "10": {
+            "teksArab": "وَاِذْ نَادٰى رَبُّكَ مُوْسٰٓى اَنِ ائْتِ الْقَوْمَ الظّٰلِمِيْنَ ۙ",
+            "teksLatin": "wa iż nādā rabbuka mūsā ani'til-qaumaẓ-ẓālimīn(a).",
+            "teksIndonesia": "Dan (ingatlah) ketika Tuhanmu menyeru Musa (dengan firman-Nya), “Datangilah kaum yang zalim itu,"
+        },
+        "11": {
+            "teksArab": "قَوْمَ فِرْعَوْنَ ۗ اَلَا يَتَّقُوْنَ  ",
+            "teksLatin": "qauma fir‘aun(a), alā yattaqūn(a).",
+            "teksIndonesia": "(yaitu) kaum Fir‘aun. Mengapa mereka tidak bertakwa?”"
+        },
+        "12": {
+            "teksArab": "قَالَ رَبِّ اِنِّيْٓ اَخَافُ اَنْ يُّكَذِّبُوْنِ ۗ",
+            "teksLatin": "qāla rabbi innī akhāfu ay yukażżibūn(i).",
+            "teksIndonesia": "Dia (Musa) berkata, “Ya Tuhanku, sungguh, aku takut mereka akan mendustakan aku,"
+        },
+        "13": {
+            "teksArab": "وَيَضِيْقُ صَدْرِيْ وَلَا يَنْطَلِقُ لِسَانِيْ فَاَرْسِلْ اِلٰى هٰرُوْنَ ",
+            "teksLatin": "wa yaḍīqu ṣadrī wa lā yanṭaliqu lisānī fa arsil ilā hārūn(a).",
+            "teksIndonesia": "sehingga dadaku terasa sempit dan lidahku tidak lancar, maka utuslah Harun (bersamaku)."
+        },
+        "14": {
+            "teksArab": "وَلَهُمْ عَلَيَّ ذَنْۢبٌ فَاَخَافُ اَنْ يَّقْتُلُوْنِ  ۚ",
+            "teksLatin": "wa lahum ‘alayya żambun fa akhāfu ay yaqtulūn(i).",
+            "teksIndonesia": "Sebab aku berdosa terhadap mereka, maka aku takut mereka akan membunuhku.”"
+        },
+        "15": {
+            "teksArab": "قَالَ كَلَّا ۚفَاذْهَبَا بِاٰيٰتِنَآ اِنَّا مَعَكُمْ مُّسْتَمِعُوْنَ ۙ",
+            "teksLatin": "qāla kallā, fażhabā bi'āyātinā innā ma‘akum mustami‘ūn(a).",
+            "teksIndonesia": "(Allah) berfirman, “Jangan takut (mereka tidak akan dapat membunuhmu)! Maka pergilah kamu berdua dengan membawa ayat-ayat Kami (mukjizat-mukjizat); sungguh, Kami bersamamu mendengarkan (apa yang mereka katakan),"
+        },
+        "16": {
+            "teksArab": "فَأْتِيَا فِرْعَوْنَ فَقُوْلَآ اِنَّا رَسُوْلُ رَبِّ الْعٰلَمِيْنَ ۙ",
+            "teksLatin": "fa'tiyā fir‘auna faqūlā innā rasūlu rabbil-‘ālamīn(a).",
+            "teksIndonesia": "maka datanglah kamu berdua kepada Fir‘aun dan katakan, “Sesungguhnya kami adalah rasul-rasul Tuhan seluruh alam,"
+        },
+        "17": {
+            "teksArab": "اَنْ اَرْسِلْ مَعَنَا بَنِيْٓ اِسْرَاۤءِيْلَ ۗ ",
+            "teksLatin": "an arsil ma‘anā banī isrā'īl(a).",
+            "teksIndonesia": "lepaskanlah Bani Israil (pergi) bersama kami.”"
+        },
+        "18": {
+            "teksArab": "قَالَ اَلَمْ نُرَبِّكَ فِيْنَا وَلِيْدًا وَّلَبِثْتَ فِيْنَا مِنْ عُمُرِكَ سِنِيْنَ ۗ ",
+            "teksLatin": "qāla alam nurabbika fīnā walīdaw wa labiṡta fīnā min ‘umurika sinīn(a).",
+            "teksIndonesia": "Dia (Fir‘aun) menjawab, “Bukankah kami telah mengasuhmu dalam lingkungan (keluarga) kami, waktu engkau masih kanak-kanak dan engkau tinggal bersama kami beberapa tahun dari umurmu."
+        },
+        "19": {
+            "teksArab": "وَفَعَلْتَ فَعْلَتَكَ الَّتِيْ فَعَلْتَ وَاَنْتَ مِنَ الْكٰفِرِيْنَ  ",
+            "teksLatin": "wa fa‘alta fa‘latakal-latī fa‘alta wa anta minal-kāfirīn(a).",
+            "teksIndonesia": "Dan engkau (Musa) telah melakukan (kesalahan dari) perbuatan yang telah engkau lakukan dan engkau termasuk orang yang tidak tahu berterima kasih.”"
+        },
+        "20": {
+            "teksArab": "قَالَ فَعَلْتُهَآ اِذًا وَّاَنَا۠ مِنَ الضَّاۤلِّيْنَ  ",
+            "teksLatin": "qāla fa‘altuhā iżaw wa ana minaḍ-ḍāllīn(a).",
+            "teksIndonesia": "Dia (Musa) berkata, “Aku telah melakukannya, dan ketika itu aku termasuk orang yang khilaf."
+        },
+        "21": {
+            "teksArab": "فَفَرَرْتُ مِنْكُمْ لَمَّا خِفْتُكُمْ فَوَهَبَ لِيْ رَبِّيْ حُكْمًا وَّجَعَلَنِيْ مِنَ الْمُرْسَلِيْنَ  ",
+            "teksLatin": "fa farartu minkum lammā khiftukum fa wahaba lī rabbī ḥukmaw wa ja‘alanī minal-mursalīn(a).",
+            "teksIndonesia": "Lalu aku lari darimu karena aku takut kepadamu, kemudian Tuhanku menganugerahkan ilmu kepadaku serta Dia menjadikan aku salah seorang di antara rasul-rasul."
+        },
+        "22": {
+            "teksArab": "وَتِلْكَ نِعْمَةٌ تَمُنُّهَا عَلَيَّ اَنْ عَبَّدْتَّ بَنِيْٓ اِسْرَاۤءِيْلَ ۗ",
+            "teksLatin": "wa tilka ni‘matun tamunnuhā ‘alayya an ‘abbatta banī isrā'īl(a).",
+            "teksIndonesia": "Dan itulah kebaikan yang telah engkau berikan kepadaku, (sementara) itu engkau telah memperbudak Bani Israil.”"
+        },
+        "23": {
+            "teksArab": "قَالَ فِرْعَوْنُ وَمَا رَبُّ الْعٰلَمِيْنَ ۗ ",
+            "teksLatin": "qāla fir‘aunu wa mā rabbul-‘ālamīn(a).",
+            "teksIndonesia": "Fir‘aun bertanya, “Siapa Tuhan seluruh alam itu?”"
+        },
+        "24": {
+            "teksArab": "قَالَ رَبُّ السَّمٰوٰتِ وَالْاَرْضِ وَمَا بَيْنَهُمَاۗ اِنْ كُنْتُمْ مُّوْقِنِيْنَ ",
+            "teksLatin": "qāla rabbus-samāwāti wal-arḍi wa mā bainahumā, in kuntum mūqinīn(a).",
+            "teksIndonesia": "Dia (Musa) menjawab, “Tuhan pencipta langit dan bumi dan apa yang ada di antara keduanya (itulah Tuhanmu), jika kamu mempercayai-Nya.”"
+        },
+        "25": {
+            "teksArab": "قَالَ لِمَنْ حَوْلَهٗٓ اَلَا تَسْتَمِعُوْنَ ",
+            "teksLatin": "qāla liman ḥaulahū alā tastami‘ūn(a).",
+            "teksIndonesia": "Dia (Fir‘aun) berkata kepada orang-orang di sekelilingnya, “Apakah kamu tidak mendengar (apa yang dikatakannya)?”"
+        },
+        "26": {
+            "teksArab": "قَالَ رَبُّكُمْ وَرَبُّ اٰبَاۤىِٕكُمُ الْاَوَّلِيْنَ ",
+            "teksLatin": "qāla rabbukum wa rabbu ābā'ikumul-awwalīn(a).",
+            "teksIndonesia": "Dia (Musa) berkata, “(Dia) Tuhanmu dan juga Tuhan nenek moyangmu terdahulu.”"
+        },
+        "27": {
+            "teksArab": "قَالَ اِنَّ رَسُوْلَكُمُ الَّذِيْٓ اُرْسِلَ اِلَيْكُمْ لَمَجْنُوْنٌ ",
+            "teksLatin": "qāla inna rasūlakumul-lażī ursila ilaikum lamajnūn(un).",
+            "teksIndonesia": "Dia (Fir‘aun) berkata, “Sungguh, Rasulmu yang diutus kepada kamu benar-benar orang gila.” "
+        },
+        "28": {
+            "teksArab": "قَالَ رَبُّ الْمَشْرِقِ وَالْمَغْرِبِ وَمَا بَيْنَهُمَاۗ اِنْ كُنْتُمْ تَعْقِلُوْنَ  ",
+            "teksLatin": "qāla rabbul-masyriqi wal-magribi wa mā bainahumā, in kuntum ta‘qilūn(a).",
+            "teksIndonesia": "Dia (Musa) berkata, “(Dialah) Tuhan (yang menguasai) timur dan barat dan apa yang ada di antara keduanya; jika kamu mengerti.”"
+        },
+        "29": {
+            "teksArab": "قَالَ لَىِٕنِ اتَّخَذْتَ اِلٰهًا غَيْرِيْ لَاَجْعَلَنَّكَ مِنَ الْمَسْجُوْنِيْنَ ",
+            "teksLatin": "qāla la'inittakhażta ilāhan gairī la'aj‘alannaka minal-masjūnīn(a).",
+            "teksIndonesia": "Dia (Fir‘aun) berkata, “Sungguh, jika engkau menyembah Tuhan selain aku, pasti aku masukkan engkau ke dalam penjara.”"
+        },
+        "30": {
+            "teksArab": "قَالَ اَوَلَوْ جِئْتُكَ بِشَيْءٍ مُّبِيْنٍ ",
+            "teksLatin": "qāla awalau ji'tuka bisyai'im mubīn(in).",
+            "teksIndonesia": "Dia (Musa) berkata, “Apakah (engkau akan melakukan itu) sekalipun aku tunjukkan kepadamu sesuatu (bukti) yang nyata?”"
+        },
+        "31": {
+            "teksArab": "قَالَ فَأْتِ بِهٖٓ اِنْ كُنْتَ مِنَ الصّٰدِقِيْنَ",
+            "teksLatin": "qāla fa'ti bihī in kunta minaṣ-ṣādiqīn(a).",
+            "teksIndonesia": "Dia (Fir‘aun) berkata, “Tunjukkan sesuatu (bukti yang nyata) itu, jika engkau termasuk orang yang benar!”"
+        },
+        "32": {
+            "teksArab": "فَاَلْقٰى عَصَاهُ فَاِذَا هِيَ ثُعْبَانٌ مُّبِيْنٌ ۚ ",
+            "teksLatin": "fa alqā ‘aṣāhu fa iżā hiya ṡu‘bānum mubīn(un).",
+            "teksIndonesia": "Maka dia (Musa) melemparkan tongkatnya, tiba-tiba tongkat itu menjadi ular besar yang sebenarnya."
+        },
+        "33": {
+            "teksArab": "وَنَزَعَ يَدَهٗ فَاِذَا هِيَ بَيْضَاۤءُ لِلنّٰظِرِيْنَ ࣖ ",
+            "teksLatin": "wa naza‘a yadahū fa iżā hiya baiḍā'u lin-nāẓirīn(a).",
+            "teksIndonesia": "Dan dia mengeluarkan tangannya (dari dalam bajunya), tiba-tiba tangan itu menjadi putih (bercahaya) bagi orang-orang yang melihatnya."
+        },
+        "34": {
+            "teksArab": "قَالَ لِلْمَلَاِ حَوْلَهٗٓ اِنَّ هٰذَا لَسٰحِرٌ عَلِيْمٌ ۙ ",
+            "teksLatin": "qāla lil-mala'i ḥaulahū inna hāżā lasāḥirun ‘alīm(un).",
+            "teksIndonesia": "Dia (Fir‘aun) berkata kepada para pemuka di sekelilingnya, “Sesungguhnya dia (Musa) ini pasti seorang pesihir yang pandai,"
+        },
+        "35": {
+            "teksArab": "يُّرِيْدُ اَنْ يُّخْرِجَكُمْ مِّنْ اَرْضِكُمْ بِسِحْرِهٖۖ فَمَاذَا تَأْمُرُوْنَ ",
+            "teksLatin": "yurīdu ay yukhrijakum min arḍikum bisiḥrih(ī), fa māżā ta'murūn(a).",
+            "teksIndonesia": "dia hendak mengusir kamu dari negerimu dengan sihirnya; karena itu apakah yang kamu sarankan?”"
+        },
+        "36": {
+            "teksArab": "قَالُوْٓا اَرْجِهْ وَاَخَاهُ وَابْعَثْ فِى الْمَدَاۤىِٕنِ حٰشِرِيْنَ ۙ ",
+            "teksLatin": "qālū arjih wa akhāhu wab‘aṡ fil-madā'ini ḥāsyirīn(a).",
+            "teksIndonesia": "Mereka menjawab, “Tahanlah (untuk sementara) dia dan saudaranya, dan utuslah ke seluruh negeri orang-orang yang akan mengumpulkan (pesihir),"
+        },
+        "37": {
+            "teksArab": "يَأْتُوْكَ بِكُلِّ سَحَّارٍ عَلِيْمٍ ",
+            "teksLatin": "ya'tūka bikulli saḥḥārin ‘alīm(in).",
+            "teksIndonesia": "niscaya mereka akan mendatangkan semua pesihir yang pandai kepadamu.” "
+        },
+        "38": {
+            "teksArab": "فَجُمِعَ السَّحَرَةُ لِمِيْقَاتِ يَوْمٍ مَّعْلُوْمٍ ۙ ",
+            "teksLatin": "fa jumi‘as-saḥaratu limīqāti yaumim ma‘lūm(in).",
+            "teksIndonesia": "Lalu dikumpulkanlah para pesihir pada waktu (yang ditetapkan) pada hari yang telah ditentukan, "
+        },
+        "39": {
+            "teksArab": "وَّقِيْلَ لِلنَّاسِ هَلْ اَنْتُمْ مُّجْتَمِعُوْنَ ۙ ",
+            "teksLatin": "wa qīla lin-nāsi hal antum mujtami‘ūn(a).",
+            "teksIndonesia": "dan diumumkan kepada orang banyak, “Berkumpullah kamu semua,"
+        },
+        "40": {
+            "teksArab": "لَعَلَّنَا نَتَّبِعُ السَّحَرَةَ اِنْ كَانُوْا هُمُ الْغٰلِبِيْنَ  ",
+            "teksLatin": "la‘allanā nattabi‘us-saḥarata in kānū humul-gālibīn(a).",
+            "teksIndonesia": "agar kita mengikuti para pesihir itu, jika mereka yang menang.”"
+        },
+        "41": {
+            "teksArab": "فَلَمَّا جَاۤءَ السَّحَرَةُ قَالُوْا لِفِرْعَوْنَ اَىِٕنَّ لَنَا لَاَجْرًا اِنْ كُنَّا نَحْنُ الْغٰلِبِيْنَ  ",
+            "teksLatin": "falammā jā'as-saḥaratu qālū lifir‘auna a'inna lanā la'ajran in kunnā naḥnul-gālibīn(a).",
+            "teksIndonesia": "Maka ketika para pesihir datang, mereka berkata kepada Fir‘aun, “Apakah kami benar-benar akan mendapat imbalan yang besar jika kami yang menang?”"
+        },
+        "42": {
+            "teksArab": "قَالَ نَعَمْ وَاِنَّكُمْ اِذًا لَّمِنَ الْمُقَرَّبِيْنَ ",
+            "teksLatin": "qāla na‘am wa innakum iżal laminal-muqarrabīn(a).",
+            "teksIndonesia": "Dia (Fir‘aun) menjawab, “Ya, dan bahkan kamu pasti akan mendapat kedudukan yang dekat (kepadaku).”"
+        },
+        "43": {
+            "teksArab": "قَالَ لَهُمْ مُّوْسٰٓى اَلْقُوْا مَآ اَنْتُمْ مُّلْقُوْنَ  ",
+            "teksLatin": "qāla lahum mūsā alqū mā antum mulqūn(a).",
+            "teksIndonesia": "Dia (Musa) berkata kepada mereka, “Lemparkanlah apa yang hendak kamu lemparkan.”"
+        },
+        "44": {
+            "teksArab": "فَاَلْقَوْا حِبَالَهُمْ وَعِصِيَّهُمْ وَقَالُوْا بِعِزَّةِ فِرْعَوْنَ اِنَّا لَنَحْنُ الْغٰلِبُوْنَ  ",
+            "teksLatin": "fa alqau ḥibālahum wa ‘iṣiyyahum wa qālū bi‘izzati fir‘auna innā lanaḥnul-gālibūn(a).",
+            "teksIndonesia": "Lalu mereka melemparkan tali temali dan tongkat-tongkat mereka seraya berkata, “Demi kekuasaan Fir‘aun, pasti kamilah yang akan menang.”"
+        },
+        "45": {
+            "teksArab": "فَاَلْقٰى مُوْسٰى عَصَاهُ فَاِذَا هِيَ تَلْقَفُ مَا يَأْفِكُوْنَ ۚ ",
+            "teksLatin": "fa alqā mūsā ‘aṣāhu fa iżā hiya talqafu mā ya'fikūn(a).",
+            "teksIndonesia": "Kemudian Musa melemparkan tongkatnya, maka tiba-tiba ia menelan benda-benda palsu yang mereka ada-adakan itu."
+        },
+        "46": {
+            "teksArab": "فَاُلْقِيَ السَّحَرَةُ سٰجِدِيْنَ ۙ ",
+            "teksLatin": "fa ulqiyas-saḥaratu sājidīn(a).",
+            "teksIndonesia": "Maka menyungkurlah para pesihir itu, bersujud."
+        },
+        "47": {
+            "teksArab": "قَالُوْٓا اٰمَنَّا بِرَبِّ الْعٰلَمِيْنَ ۙ ",
+            "teksLatin": "qālū āmannā birabbil-‘ālamīn(a).",
+            "teksIndonesia": "Mereka berkata, “Kami beriman kepada Tuhan seluruh alam,"
+        },
+        "48": {
+            "teksArab": "رَبِّ مُوْسٰى وَهٰرُوْنَ  ",
+            "teksLatin": "rabbi mūsā wa hārūn(a).",
+            "teksIndonesia": "(yaitu) Tuhannya Musa dan Harun.”"
+        },
+        "49": {
+            "teksArab": "قَالَ اٰمَنْتُمْ لَهٗ قَبْلَ اَنْ اٰذَنَ لَكُمْۚ اِنَّهٗ لَكَبِيْرُكُمُ الَّذِيْ عَلَّمَكُمُ السِّحْرَۚ فَلَسَوْفَ تَعْلَمُوْنَ ەۗ لَاُقَطِّعَنَّ اَيْدِيَكُمْ وَاَرْجُلَكُمْ مِّنْ خِلَافٍ وَّلَاُصَلِّبَنَّكُمْ اَجْمَعِيْنَۚ",
+            "teksLatin": "qāla āmantum lahū qabla an āżana lakum, innahū lakabīrukumul-lażī ‘allamakumus-siḥr(a), fa lasaufa ta‘lamūn(a), la'uqaṭṭi‘anna aidiyakum wa arjulakum min khilāfiw wa la'uṣallibannakum ajma'īn(a).",
+            "teksIndonesia": "Dia (Fir‘aun) berkata, “Mengapa kamu beriman kepada Musa sebelum aku memberi izin kepadamu? Sesungguhnya dia pemimpinmu yang mengajarkan sihir kepadamu. Nanti kamu pasti akan tahu (akibat perbuatanmu). Pasti akan kupotong tangan dan kakimu bersilang dan sungguh, akan kusalib kamu semuanya.”"
+        },
+        "50": {
+            "teksArab": "قَالُوْا لَا ضَيْرَ ۖاِنَّآ اِلٰى رَبِّنَا مُنْقَلِبُوْنَ ۚ  ",
+            "teksLatin": "qālū lā ḍair(a), innā ilā rabbinā munqalibūn(a).",
+            "teksIndonesia": "Mereka berkata, “Tidak ada yang kami takutkan, karena kami akan kembali kepada Tuhan kami."
+        },
+        "51": {
+            "teksArab": " اِنَّا نَطْمَعُ اَنْ يَّغْفِرَ لَنَا رَبُّنَا خَطٰيٰنَآ اَنْ كُنَّآ اَوَّلَ الْمُؤْمِنِيْنَ ۗ ࣖ",
+            "teksLatin": "innā naṭma‘u ay yagfira lanā rabbunā khaṭāyānā an kunnā awwalal-mu'minīn(a).",
+            "teksIndonesia": "Sesungguhnya kami sangat menginginkan sekiranya Tuhan kami akan mengampuni kesalahan kami, karena kami menjadi orang yang pertama-tama beriman.”"
+        },
+        "52": {
+            "teksArab": "۞ وَاَوْحَيْنَآ اِلٰى مُوْسٰىٓ اَنْ اَسْرِ بِعِبَادِيْٓ اِنَّكُمْ مُّتَّبَعُوْنَ",
+            "teksLatin": "wa auḥainā ilā mūsā an asri bi‘ibādī innakum muttaba‘ūn(a).",
+            "teksIndonesia": "Dan Kami wahyukan (perintahkan) kepada Musa, “Pergilah pada malam hari dengan membawa hamba-hamba-Ku (Bani Israil), sebab pasti kamu akan dikejar.”"
+        },
+        "53": {
+            "teksArab": "فَاَرْسَلَ فِرْعَوْنُ فِى الْمَدَاۤىِٕنِ حٰشِرِيْنَ ۚ ",
+            "teksLatin": "fa arsala fir‘aunu fil-madā'ini ḥāsyirīn(a).",
+            "teksIndonesia": "Kemudian Fir‘aun mengirimkan orang ke kota-kota (untuk mengumpulkan bala tentaranya)."
+        },
+        "54": {
+            "teksArab": "اِنَّ هٰٓؤُلَاۤءِ لَشِرْذِمَةٌ قَلِيْلُوْنَۙ ",
+            "teksLatin": "inna hā'ulā'i lasyirzimatun qalīlūn(a).",
+            "teksIndonesia": "(Fir‘aun berkata), “Sesungguhnya mereka (Bani Israil) hanya sekelompok kecil,"
+        },
+        "55": {
+            "teksArab": "وَاِنَّهُمْ لَنَا لَغَاۤىِٕظُوْنَ ۙ  ",
+            "teksLatin": "wa innahum lanā lagā'iẓūn(a).",
+            "teksIndonesia": "dan sesungguhnya mereka telah berbuat hal-hal yang menimbulkan amarah kita,"
+        },
+        "56": {
+            "teksArab": "وَاِنَّا لَجَمِيْعٌ حٰذِرُوْنَ ۗ ",
+            "teksLatin": "wa innā lajamī‘un ḥāżirūn(a).",
+            "teksIndonesia": "dan sesungguhnya kita semua tanpa kecuali harus selalu waspada.”"
+        },
+        "57": {
+            "teksArab": "فَاَخْرَجْنٰهُمْ مِّنْ جَنّٰتٍ وَّعُيُوْنٍ ۙ ",
+            "teksLatin": "fa akhrajnāhum min jannātiw wa ‘uyūn(in).",
+            "teksIndonesia": "Kemudian, Kami keluarkan mereka (Fir‘aun dan kaumnya) dari taman-taman dan mata air,"
+        },
+        "58": {
+            "teksArab": "وَّكُنُوْزٍ وَّمَقَامٍ كَرِيْمٍ ۙ ",
+            "teksLatin": "wa kunūziw wa maqāmin karīm(in).",
+            "teksIndonesia": "dan (dari) harta kekayaan dan kedudukan yang mulia, "
+        },
+        "59": {
+            "teksArab": "كَذٰلِكَۚ وَاَوْرَثْنٰهَا بَنِيْٓ اِسْرَاۤءِيْلَ ۗ ",
+            "teksLatin": "każālik(a), wa auraṡnāhā banī isrā'īl(a).",
+            "teksIndonesia": "demikianlah, dan Kami anugerahkan semuanya (itu) kepada Bani Israil."
+        },
+        "60": {
+            "teksArab": "فَاَتْبَعُوْهُمْ مُّشْرِقِيْنَ  ",
+            "teksLatin": "fa atba‘ūhum musyriqīn(a).",
+            "teksIndonesia": "Lalu (Fir‘aun dan bala tentaranya) dapat menyusul mereka pada waktu matahari terbit."
+        },
+        "61": {
+            "teksArab": "فَلَمَّا تَرٰۤءَا الْجَمْعٰنِ قَالَ اَصْحٰبُ مُوْسٰٓى اِنَّا لَمُدْرَكُوْنَ ۚ  ",
+            "teksLatin": "falammā tarā'al-jam‘āni qāla aṣḥābu mūsā innā lamudrakūn(a).",
+            "teksIndonesia": "Maka ketika kedua golongan itu saling melihat, berkatalah pengikut-pengikut Musa, “Kita benar-benar akan tersusul.”"
+        },
+        "62": {
+            "teksArab": "قَالَ كَلَّا ۗاِنَّ مَعِيَ رَبِّيْ سَيَهْدِيْنِ",
+            "teksLatin": "qāla kallā, inna ma‘iya rabbī sayahdīn(i).",
+            "teksIndonesia": "Dia (Musa) menjawab, “Sekali-kali tidak akan (tersusul); sesungguhnya Tuhanku bersamaku, Dia akan memberi petunjuk kepadaku.”"
+        },
+        "63": {
+            "teksArab": "فَاَوْحَيْنَآ اِلٰى مُوْسٰٓى اَنِ اضْرِبْ بِّعَصَاكَ الْبَحْرَۗ فَانْفَلَقَ فَكَانَ كُلُّ فِرْقٍ كَالطَّوْدِ الْعَظِيْمِ ۚ ",
+            "teksLatin": "fa auḥainā ilā mūsā aniḍrib bi‘aṣākal-baḥr(a), fanfalaqa fa kāna kullu firqin kaṭ-ṭaudil ‘aẓīm(i).",
+            "teksIndonesia": "Lalu Kami wahyukan kepada Musa, “Pukullah laut itu dengan tongkatmu.” Maka terbelahlah lautan itu, dan setiap belahan seperti gunung yang besar."
+        },
+        "64": {
+            "teksArab": "وَاَزْلَفْنَا ثَمَّ الْاٰخَرِيْنَ ۚ ",
+            "teksLatin": "wa azlafnā ṡammal-ākharīn(a).",
+            "teksIndonesia": "Dan di sanalah Kami dekatkan golongan yang lain. "
+        },
+        "65": {
+            "teksArab": "وَاَنْجَيْنَا مُوْسٰى وَمَنْ مَّعَهٗٓ اَجْمَعِيْنَ ۚ ",
+            "teksLatin": "wa anjainā mūsā wa mam ma‘ahū ajma‘īn(a).",
+            "teksIndonesia": "Dan Kami selamatkan Musa dan orang-orang yang bersamanya."
+        },
+        "66": {
+            "teksArab": "ثُمَّ اَغْرَقْنَا الْاٰخَرِيْنَ ۗ ",
+            "teksLatin": "Ṡumma agraqnal-ākharīn(a).",
+            "teksIndonesia": "Kemudian Kami tenggelamkan golongan yang lain."
+        },
+        "67": {
+            "teksArab": "اِنَّ فِيْ ذٰلِكَ لَاٰيَةً ۗوَمَا كَانَ اَكْثَرُهُمْ مُّؤْمِنِيْنَ  ",
+            "teksLatin": "inna fī żālika la'āyah(tan), wa mā kāna akṡaruhum mu'minīn(a).",
+            "teksIndonesia": "Sungguh, pada yang demikian itu terdapat suatu tanda (kekuasaan Allah), tetapi kebanyakan mereka tidak beriman."
+        },
+        "68": {
+            "teksArab": "وَاِنَّ رَبَّكَ لَهُوَ الْعَزِيْزُ الرَّحِيْمُ ࣖ",
+            "teksLatin": "wa inna rabbaka lahuwal-‘azīzur-raḥīm(u).",
+            "teksIndonesia": "Dan sesungguhnya Tuhanmu Dialah Yang Mahaperkasa, Maha Penyayang."
+        },
+        "69": {
+            "teksArab": "وَاتْلُ عَلَيْهِمْ نَبَاَ اِبْرٰهِيْمَ ۘ ",
+            "teksLatin": "watlu ‘alaihim naba'a ibrāhīm(a).",
+            "teksIndonesia": "Dan bacakanlah kepada mereka kisah Ibrahim."
+        },
+        "70": {
+            "teksArab": "اِذْ قَالَ لِاَبِيْهِ وَقَوْمِهٖ مَا تَعْبُدُوْنَ ",
+            "teksLatin": "iż qāla li'abīhi wa qaumihī mā ta‘budūn(a).",
+            "teksIndonesia": "Ketika dia (Ibrahim) berkata kepada ayahnya dan kaumnya, “Apakah yang kamu sembah?”"
+        },
+        "71": {
+            "teksArab": "قَالُوْا نَعْبُدُ اَصْنَامًا فَنَظَلُّ لَهَا عٰكِفِيْنَ  ",
+            "teksLatin": "qālū na‘budu aṣnāman fa naẓallu lahā ‘ākifīn(a).",
+            "teksIndonesia": "Mereka menjawab, “Kami menyembah berhala-berhala dan kami senantiasa tekun menyembahnya.”"
+        },
+        "72": {
+            "teksArab": "قَالَ هَلْ يَسْمَعُوْنَكُمْ اِذْ تَدْعُوْنَ ۙ  ",
+            "teksLatin": "qāla hal yasma‘ūnakum iż tad‘ūn(a).",
+            "teksIndonesia": "Dia (Ibrahim) berkata, “Apakah mereka mendengarmu ketika kamu berdoa (kepadanya)?"
+        },
+        "73": {
+            "teksArab": "اَوْ يَنْفَعُوْنَكُمْ اَوْ يَضُرُّوْنَ  ",
+            "teksLatin": "au yanfa‘ūnakum au yaḍurrūn(a).",
+            "teksIndonesia": "Atau (dapatkah) mereka memberi manfaat atau mencelakakan kamu?”"
+        },
+        "74": {
+            "teksArab": "قَالُوْا بَلْ وَجَدْنَآ اٰبَاۤءَنَا كَذٰلِكَ يَفْعَلُوْنَ  ",
+            "teksLatin": "qālū bal wajadnā ābā'anā każālika yaf‘alūn(a).",
+            "teksIndonesia": "Mereka menjawab, “Tidak, tetapi kami dapati nenek moyang kami berbuat begitu.”"
+        },
+        "75": {
+            "teksArab": "قَالَ اَفَرَءَيْتُمْ مَّا كُنْتُمْ تَعْبُدُوْنَ ۙ ",
+            "teksLatin": "qāla afa ra'aitum mā kuntum ta‘budūn(a).",
+            "teksIndonesia": "Dia (Ibrahim) berkata, “Apakah kamu memperhatikan apa yang kamu sembah,"
+        },
+        "76": {
+            "teksArab": "اَنْتُمْ وَاٰبَاۤؤُكُمُ الْاَقْدَمُوْنَ ۙ  ",
+            "teksLatin": "antum wa ābā'ukumul-aqdamūn(a).",
+            "teksIndonesia": "kamu dan nenek moyang kamu yang terdahulu?"
+        },
+        "77": {
+            "teksArab": "فَاِنَّهُمْ عَدُوٌّ لِّيْٓ اِلَّا رَبَّ الْعٰلَمِيْنَ ۙ ",
+            "teksLatin": "fa innahum ‘aduwwul lī illā rabbal-‘ālamīn(a).",
+            "teksIndonesia": "Sesungguhnya mereka (apa yang kamu sembah) itu musuhku, lain halnya Tuhan seluruh alam,"
+        },
+        "78": {
+            "teksArab": "الَّذِيْ خَلَقَنِيْ فَهُوَ يَهْدِيْنِ ۙ ",
+            "teksLatin": "allażī khalaqanī fa huwa yahdīn(i).",
+            "teksIndonesia": "(yaitu) Yang telah menciptakan aku, maka Dia yang memberi petunjuk kepadaku,"
+        },
+        "79": {
+            "teksArab": "وَالَّذِيْ هُوَ يُطْعِمُنِيْ وَيَسْقِيْنِ ۙ ",
+            "teksLatin": "wal-lażī huwa yuṭ‘imunī wa yasqīn(i).",
+            "teksIndonesia": "dan Yang memberi makan dan minum kepadaku;"
+        },
+        "80": {
+            "teksArab": "وَاِذَا مَرِضْتُ فَهُوَ يَشْفِيْنِ ۙ  ",
+            "teksLatin": "wa iżā mariḍtu fa huwa yasyfīn(i).",
+            "teksIndonesia": "dan apabila aku sakit, Dialah yang menyembuhkan aku, "
+        },
+        "81": {
+            "teksArab": "وَالَّذِيْ يُمِيْتُنِيْ ثُمَّ يُحْيِيْنِ ۙ ",
+            "teksLatin": "wal-lażī yumītunī ṡumma yuḥyīn(i).",
+            "teksIndonesia": "dan Yang akan mematikan aku, kemudian akan menghidupkan aku (kembali),"
+        },
+        "82": {
+            "teksArab": "وَالَّذِيْٓ اَطْمَعُ اَنْ يَّغْفِرَ لِيْ خَطِيْۤـَٔتِيْ يَوْمَ الدِّيْنِ ۗ",
+            "teksLatin": "wal-lażī aṭma‘u ay yagfira lī khaṭī'atī yaumad-dīn(i).",
+            "teksIndonesia": "dan Yang sangat kuinginkan akan mengampuni kesalahanku pada hari Kiamat.”"
+        },
+        "83": {
+            "teksArab": "رَبِّ هَبْ لِيْ حُكْمًا وَّاَلْحِقْنِيْ بِالصّٰلِحِيْنَ ۙ",
+            "teksLatin": "rabbi hab lī ḥukmaw wa alḥiqnī biṣ-ṣāliḥīn(a).",
+            "teksIndonesia": "Ibrahim berdoa), “Ya Tuhanku, berikanlah kepadaku ilmu dan masukkanlah aku ke dalam golongan orang-orang yang saleh,"
+        },
+        "84": {
+            "teksArab": "وَاجْعَلْ لِّيْ لِسَانَ صِدْقٍ فِى الْاٰخِرِيْنَ ۙ ",
+            "teksLatin": "waj‘al lī lisāna ṣidqin fil-ākhirīn(a).",
+            "teksIndonesia": "dan jadikanlah aku buah tutur yang baik bagi orang-orang (yang datang) kemudian,"
+        },
+        "85": {
+            "teksArab": "وَاجْعَلْنِيْ مِنْ وَّرَثَةِ جَنَّةِ النَّعِيْمِ ۙ",
+            "teksLatin": "waj‘alnī miw waraṡati janatin na‘īm(i).",
+            "teksIndonesia": "dan jadikanlah aku termasuk orang yang mewarisi surga yang penuh kenikmatan,"
+        },
+        "86": {
+            "teksArab": "وَاغْفِرْ لِاَبِيْٓ اِنَّهٗ كَانَ مِنَ الضَّاۤلِّيْنَ ۙ ",
+            "teksLatin": "wagfir li'abī innahū kāna minaḍ-ḍāllīn(a).",
+            "teksIndonesia": "dan ampunilah ayahku, sesungguhnya dia termasuk orang yang sesat,"
+        },
+        "87": {
+            "teksArab": "وَلَا تُخْزِنِيْ يَوْمَ يُبْعَثُوْنَۙ",
+            "teksLatin": "wa lā tukhzinī yauma yub‘aṡūn(a).",
+            "teksIndonesia": "dan janganlah Engkau hinakan aku pada hari mereka dibangkitkan,"
+        },
+        "88": {
+            "teksArab": "يَوْمَ لَا يَنْفَعُ مَالٌ وَّلَا بَنُوْنَ ۙ  ",
+            "teksLatin": "yauma lā yanfa‘u māluw wa lā banūn(a).",
+            "teksIndonesia": "(yaitu) pada hari (ketika) harta dan anak-anak  tidak berguna,"
+        },
+        "89": {
+            "teksArab": "اِلَّا مَنْ اَتَى اللّٰهَ بِقَلْبٍ سَلِيْمٍ ۗ ",
+            "teksLatin": "illā man atallāha biqalbin salīm(in).",
+            "teksIndonesia": "kecuali orang-orang yang menghadap Allah dengan hati yang bersih,"
+        },
+        "90": {
+            "teksArab": "وَاُزْلِفَتِ الْجَنَّةُ لِلْمُتَّقِيْنَ ۙ ",
+            "teksLatin": "wa uzlifatil-jannatu lil-muttaqīn(a).",
+            "teksIndonesia": "dan surga didekatkan kepada orang-orang yang bertakwa,"
+        },
+        "91": {
+            "teksArab": "وَبُرِّزَتِ الْجَحِيْمُ لِلْغَاوِيْنَ ۙ ",
+            "teksLatin": "wa burrizatil-jaḥīmu lil-gāwīn(a).",
+            "teksIndonesia": "dan neraka Jahim diperlihatkan dengan jelas kepada orang-orang yang sesat,”"
+        },
+        "92": {
+            "teksArab": "وَقِيْلَ لَهُمْ اَيْنَ مَا كُنْتُمْ تَعْبُدُوْنَ ۙ ",
+            "teksLatin": "wa qīla lahum ainamā kuntum ta‘budūn(a).",
+            "teksIndonesia": "dan dikatakan kepada mereka, “Di mana berhala-berhala yang dahulu kamu sembah,"
+        },
+        "93": {
+            "teksArab": "مِنْ دُوْنِ اللّٰهِ ۗهَلْ يَنْصُرُوْنَكُمْ اَوْ يَنْتَصِرُوْنَ ۗ  ",
+            "teksLatin": "min dūnillāh(i), hal yanṣurūnakum au yantaṣirūn(a).",
+            "teksIndonesia": "selain Allah? Dapatkah mereka menolong kamu atau menolong diri mereka sendiri?”"
+        },
+        "94": {
+            "teksArab": "فَكُبْكِبُوْا فِيْهَا هُمْ وَالْغَاوٗنَ ۙ ",
+            "teksLatin": "fa kubkibū fīhā hum wal-gāwūn(a).",
+            "teksIndonesia": "Maka mereka (sesembahan itu) dijungkirkan ke dalam neraka bersama orang-orang yang sesat,"
+        },
+        "95": {
+            "teksArab": "وَجُنُوْدُ اِبْلِيْسَ اَجْمَعُوْنَ ۗ  ",
+            "teksLatin": "wa junūdu iblīsa ajma‘ūn(a).",
+            "teksIndonesia": "dan bala tentara Iblis semuanya."
+        },
+        "96": {
+            "teksArab": "قَالُوْا وَهُمْ فِيْهَا يَخْتَصِمُوْنَ  ",
+            "teksLatin": "qālū wa hum fīhā yakhtaṣimūn(a).",
+            "teksIndonesia": "Mereka berkata sambil bertengkar di dalamnya (neraka),"
+        },
+        "97": {
+            "teksArab": "تَاللّٰهِ اِنْ كُنَّا لَفِيْ ضَلٰلٍ مُّبِيْنٍ ۙ ",
+            "teksLatin": "tallāhi in kunnā lafī ḍalālim mubīn(in).",
+            "teksIndonesia": "”Demi Allah, sesungguhnya kita dahulu (di dunia) dalam kesesatan yang nyata,"
+        },
+        "98": {
+            "teksArab": "اِذْ نُسَوِّيْكُمْ بِرَبِّ الْعٰلَمِيْنَ ",
+            "teksLatin": "iż nusawwīkum birabbil-‘ālamīn(a).",
+            "teksIndonesia": "karena kita mempersamakan kamu (berhala-berhala) dengan Tuhan seluruh alam."
+        },
+        "99": {
+            "teksArab": "وَمَآ اَضَلَّنَآ اِلَّا الْمُجْرِمُوْنَ ",
+            "teksLatin": "wa mā aḍallanā illal-mujrimūn(a).",
+            "teksIndonesia": "Dan tidak ada yang menyesatkan kita kecuali orang-orang yang berdosa."
+        },
+        "100": {
+            "teksArab": "فَمَا لَنَا مِنْ شٰفِعِيْنَ ۙ ",
+            "teksLatin": "famā lanā min syāfi‘īn(a).",
+            "teksIndonesia": "Maka sehingga (sekarang) kita tidak mempunyai pemberi syafaat (penolong),"
+        },
+        "101": {
+            "teksArab": "وَلَا صَدِيْقٍ حَمِيْمٍ  ",
+            "teksLatin": "wa lā ṣadīqin ḥamīm(in).",
+            "teksIndonesia": "dan tidak pula mempunyai teman yang akrab,"
+        },
+        "102": {
+            "teksArab": "فَلَوْ اَنَّ لَنَا كَرَّةً فَنَكُوْنَ مِنَ الْمُؤْمِنِيْنَ  ",
+            "teksLatin": "falau anna lanā karratan fa nakūna minal-mu'minīn(a).",
+            "teksIndonesia": "Maka seandainya kita dapat kembali (ke dunia) niscaya kita menjadi orang-orang yang beriman.”"
+        },
+        "103": {
+            "teksArab": "اِنَّ فِيْ ذٰلِكَ لَاٰيَةً ۗوَمَا كَانَ اَكْثَرُهُمْ مُّؤْمِنِيْنَ  ",
+            "teksLatin": "inna fī żālika la'āyah(tan), wa mā kāna akṡaruhum mu'minīn(a).",
+            "teksIndonesia": "Sungguh, pada yang demikian itu terdapat tanda (kekuasaan Allah), tetapi kebanyakan mereka tidak beriman."
+        },
+        "104": {
+            "teksArab": "وَاِنَّ رَبَّكَ لَهُوَ الْعَزِيْزُ الرَّحِيْمُ ࣖ ",
+            "teksLatin": "wa inna rabbaka lahuwal-‘azīzur-raḥīm(u).",
+            "teksIndonesia": "Dan sungguh, Tuhanmu benar-benar Dialah Mahaperkasa, Maha Penyayang."
+        },
+        "105": {
+            "teksArab": "كَذَّبَتْ قَوْمُ نُوْحِ ِۨالْمُرْسَلِيْنَ ۚ ",
+            "teksLatin": "każżabat qaumu nūḥinil-mursalīn(a).",
+            "teksIndonesia": "Kaum Nuh telah mendustakan para rasul."
+        },
+        "106": {
+            "teksArab": "اِذْ قَالَ لَهُمْ اَخُوْهُمْ نُوْحٌ اَلَا تَتَّقُوْنَ ۚ ",
+            "teksLatin": "iż qāla lahum akhūhum nūḥun alā tattaqūn(a).",
+            "teksIndonesia": "Ketika saudara mereka (Nuh) berkata kepada mereka, “Mengapa kamu tidak bertakwa?"
+        },
+        "107": {
+            "teksArab": "اِنِّيْ لَكُمْ رَسُوْلٌ اَمِيْنٌ ۙ  ",
+            "teksLatin": "innī lakum rasūlun amīn(un).",
+            "teksIndonesia": "Sesungguhnya aku ini seorang rasul kepercayaan (yang diutus) kepadamu,"
+        },
+        "108": {
+            "teksArab": "فَاتَّقُوا اللّٰهَ وَاَطِيْعُوْنِۚ  ",
+            "teksLatin": "fattaqullāha wa aṭī‘ūn(i).",
+            "teksIndonesia": "Maka bertakwalah kamu kepada Allah dan taatlah kepadaku."
+        },
+        "109": {
+            "teksArab": "وَمَآ اَسْـَٔلُكُمْ عَلَيْهِ مِنْ اَجْرٍۚ اِنْ اَجْرِيَ اِلَّا عَلٰى رَبِّ الْعٰلَمِيْنَ ۚ ",
+            "teksLatin": "wa mā as'alukum ‘alaihi min ajr(in), in ajriya illā ‘alā rabbil-‘ālamīn(a).",
+            "teksIndonesia": "Dan aku tidak meminta imbalan kepadamu atas ajakan itu; imbalanku hanyalah dari Tuhan seluruh alam."
+        },
+        "110": {
+            "teksArab": "فَاتَّقُوا اللّٰهَ وَاَطِيْعُوْنِ  ",
+            "teksLatin": "fattaqullāha wa aṭī‘ūn(i).",
+            "teksIndonesia": "Maka bertakwalah kamu kepada Allah dan taatlah kepadaku.”"
+        },
+        "111": {
+            "teksArab": "۞ قَالُوْٓا اَنُؤْمِنُ لَكَ وَاتَّبَعَكَ الْاَرْذَلُوْنَ ۗ ",
+            "teksLatin": "qālū anu'minu laka wattaba‘akal-arżalūn(a).",
+            "teksIndonesia": "Mereka berkata, “Apakah kami harus beriman kepadamu, padahal pengikut-pengikutmu orang-orang yang hina?”"
+        },
+        "112": {
+            "teksArab": "قَالَ وَمَا عِلْمِيْ بِمَا كَانُوْا يَعْمَلُوْنَ ۚ  ",
+            "teksLatin": "qāla wa mā ‘ilmī bimā kānū ya‘malūn(a).",
+            "teksIndonesia": "Dia (Nuh) menjawab, “Tidak ada pengetahuanku tentang apa yang mereka kerjakan."
+        },
+        "113": {
+            "teksArab": "اِنْ حِسَابُهُمْ اِلَّا عَلٰى رَبِّيْ لَوْ تَشْعُرُوْنَ ۚ  ",
+            "teksLatin": "in ḥisābuhum illā ‘alā rabbī lau tasy‘urūn(a).",
+            "teksIndonesia": "Perhitungan (amal perbuatan) mereka tidak lain hanyalah kepada Tuhanku, jika kamu menyadari."
+        },
+        "114": {
+            "teksArab": "وَمَآ اَنَا۠ بِطَارِدِ الْمُؤْمِنِيْنَ ۚ ",
+            "teksLatin": "wa mā ana biṭāridil-mu'minīn(a).",
+            "teksIndonesia": "Dan aku tidak akan mengusir orang-orang yang beriman."
+        },
+        "115": {
+            "teksArab": "اِنْ اَنَا۠ اِلَّا نَذِيْرٌ مُّبِيْنٌ ۗ ",
+            "teksLatin": "in ana illā nażīrum mubīn(un).",
+            "teksIndonesia": "Aku (ini) hanyalah pemberi peringatan yang jelas.”"
+        },
+        "116": {
+            "teksArab": "قَالُوْا لَىِٕنْ لَّمْ تَنْتَهِ يٰنُوْحُ لَتَكُوْنَنَّ مِنَ الْمَرْجُوْمِيْنَۗ  ",
+            "teksLatin": "qālū la'illam tantahi yā nūḥu latakūnanna minal-marjūmīn(a).",
+            "teksIndonesia": "Mereka berkata, “Wahai Nuh! Sungguh, jika engkau tidak (mau) berhenti, niscaya engkau termasuk orang yang dirajam (dilempari batu sampai mati).”"
+        },
+        "117": {
+            "teksArab": "قَالَ رَبِّ اِنَّ قَوْمِيْ كَذَّبُوْنِۖ ",
+            "teksLatin": "qāla rabbi inna qaumī każżabūn(i).",
+            "teksIndonesia": "Dia (Nuh) berkata, “Ya Tuhanku, sungguh kaumku telah mendustakan aku;"
+        },
+        "118": {
+            "teksArab": "فَافْتَحْ بَيْنِيْ وَبَيْنَهُمْ فَتْحًا وَّنَجِّنِيْ وَمَنْ مَّعِيَ مِنَ الْمُؤْمِنِيْنَ  ",
+            "teksLatin": "faftaḥ bainī wa bainahum fatḥaw wa najjinī wa mam ma‘iya minal-mu'minīn(a).",
+            "teksIndonesia": "maka berilah keputusan antara aku dengan mereka, dan selamatkanlah aku dan mereka yang beriman bersamaku.” "
+        },
+        "119": {
+            "teksArab": "فَاَنْجَيْنٰهُ وَمَنْ مَّعَهٗ فِى الْفُلْكِ الْمَشْحُوْنِ  ",
+            "teksLatin": "fa anjaināhu wa mam ma‘ahū fil-fulkil-masyḥūn(i).",
+            "teksIndonesia": "Kemudian Kami menyelamatkannya Nuh dan orang-orang yang bersamanya di dalam kapal yang penuh muatan."
+        },
+        "120": {
+            "teksArab": "ثُمَّ اَغْرَقْنَا بَعْدُ الْبَاقِيْنَ  ",
+            "teksLatin": "Ṡumma agraqnā ba‘dul-bāqīn(a).",
+            "teksIndonesia": "Kemudian setelah itu Kami tenggelamkan orang-orang yang tinggal."
+        },
+        "121": {
+            "teksArab": "اِنَّ فِيْ ذٰلِكَ لَاٰيَةً ۗوَمَا كَانَ اَكْثَرُهُمْ مُّؤْمِنِيْنَ  ",
+            "teksLatin": "inna fī żālika la'āyah(tan), wa mā kāna akṡaruhum mu'minīn(a).",
+            "teksIndonesia": "Sungguh, pada yang demikian itu benar-benar terdapat tanda (kekuasaan Allah), tetapi kebanyakan mereka tidak beriman."
+        },
+        "122": {
+            "teksArab": "وَاِنَّ رَبَّكَ لَهُوَ الْعَزِيْزُ الرَّحِيْمُ ࣖ ",
+            "teksLatin": "wa inna rabbaka lahuwal-‘azīzur-raḥīm(u).",
+            "teksIndonesia": "Dan sungguh, Tuhanmu, Dialah Yang Mahaperkasa, Maha Penyayang."
+        },
+        "123": {
+            "teksArab": "كَذَّبَتْ عَادُ ِۨالْمُرْسَلِيْنَ ۖ ",
+            "teksLatin": "każżabat ‘ādunil-mursalīn(a).",
+            "teksIndonesia": "(Kaum) ‘Ad telah mendustakan para rasul."
+        },
+        "124": {
+            "teksArab": "اِذْ قَالَ لَهُمْ اَخُوْهُمْ هُوْدٌ اَلَا تَتَّقُوْنَ ۚ ",
+            "teksLatin": "iż qāla lahum akhūhum hūdun alā tattaqūn(a).",
+            "teksIndonesia": "Ketika saudara mereka Hud berkata kepada mereka, “Mengapa kamu tidak bertakwa?"
+        },
+        "125": {
+            "teksArab": "اِنِّيْ لَكُمْ رَسُوْلٌ اَمِيْنٌ ۙ ",
+            "teksLatin": "innī lakum rasūlun amīn(un).",
+            "teksIndonesia": "Sungguh, aku ini seorang rasul kepercayaan (yang diutus) kepadamu,"
+        },
+        "126": {
+            "teksArab": "فَاتَّقُوا اللّٰهَ وَاَطِيْعُوْنِ ۚ ",
+            "teksLatin": "fattaqullāha wa aṭī‘ūn(i).",
+            "teksIndonesia": "karena itu bertakwalah kepada Allah dan taatlah kepadaku."
+        },
+        "127": {
+            "teksArab": "وَمَآ اَسْـَٔلُكُمْ عَلَيْهِ مِنْ اَجْرٍۚ اِنْ اَجْرِيَ اِلَّا عَلٰى رَبِّ الْعٰلَمِيْنَ ۗ ",
+            "teksLatin": "wa mā as'alukum ‘alaihi min ajr(in), in ajriya illā ‘alā rabbil-‘ālamīn(a).",
+            "teksIndonesia": "Dan aku tidak meminta imbalan kepadamu atas ajakan itu; imbalanku hanyalah dari Tuhan seluruh alam."
+        },
+        "128": {
+            "teksArab": "اَتَبْنُوْنَ بِكُلِّ رِيْعٍ اٰيَةً تَعْبَثُوْنَ ۙ ",
+            "teksLatin": "atabnūna bikulli rī‘in āyatan ta‘baṡūn(a).",
+            "teksIndonesia": "Apakah kamu mendirikan istana-istana pada setiap tanah yang tinggi untuk kemegahan tanpa ditempati, "
+        },
+        "129": {
+            "teksArab": "وَتَتَّخِذُوْنَ مَصَانِعَ لَعَلَّكُمْ تَخْلُدُوْنَۚ  ",
+            "teksLatin": "wa tattakhiżūna maṣāni‘a la‘allakum takhludūn(a).",
+            "teksIndonesia": "dan kamu membuat benteng-benteng dengan harapan kamu hidup kekal?"
+        },
+        "130": {
+            "teksArab": "وَاِذَا بَطَشْتُمْ بَطَشْتُمْ جَبَّارِيْنَۚ  ",
+            "teksLatin": "wa iżā baṭasytum baṭasytum jabbārīn(a).",
+            "teksIndonesia": "Dan apabila kamu menyiksa, maka kamu lakukan secara kejam dan bengis."
+        },
+        "131": {
+            "teksArab": "فَاتَّقُوا اللّٰهَ وَاَطِيْعُوْنِۚ  ",
+            "teksLatin": "fattaqullāha wa aṭī‘ūn(i).",
+            "teksIndonesia": "Maka bertakwalah kepada Allah dan taatlah kepadaku,"
+        },
+        "132": {
+            "teksArab": "وَاتَّقُوا الَّذِيْٓ اَمَدَّكُمْ بِمَا تَعْلَمُوْنَ  ۚ",
+            "teksLatin": "wattaqul-lażī amaddakum bimā ta‘lamūn(a).",
+            "teksIndonesia": "dan tetaplah kamu bertakwa kepada-Nya yang telah menganugerahkan kepadamu apa yang kamu ketahui."
+        },
+        "133": {
+            "teksArab": "اَمَدَّكُمْ بِاَنْعَامٍ وَّبَنِيْنَۙ  ",
+            "teksLatin": "amaddakum bi'an‘āmiw wa banīn(a).",
+            "teksIndonesia": "Dia (Allah) telah menganugerahkan kepadamu hewan ternak dan anak-anak,"
+        },
+        "134": {
+            "teksArab": "وَجَنّٰتٍ وَّعُيُوْنٍۚ  ",
+            "teksLatin": "wa jannātiw wa ‘uyūn(in).",
+            "teksIndonesia": "dan kebun-kebun, dan mata air,"
+        },
+        "135": {
+            "teksArab": "اِنِّيْٓ اَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيْمٍ ۗ ",
+            "teksLatin": "innī akhāfu ‘alaikum ‘ażāba yaumin ‘aẓīm(in).",
+            "teksIndonesia": "sesungguhnya aku takut kamu akan ditimpa azab pada hari yang besar.” "
+        },
+        "136": {
+            "teksArab": "قَالُوْا سَوَاۤءٌ عَلَيْنَآ اَوَعَظْتَ اَمْ لَمْ تَكُنْ مِّنَ الْوٰعِظِيْنَ ۙ ",
+            "teksLatin": "qālū sawā'un ‘alainā awa‘aẓta am lam takum minal-wā‘iẓīn(a).",
+            "teksIndonesia": "Mereka menjawab, “Sama saja bagi kami, apakah engkau memberi nasihat atau tidak memberi nasihat,"
+        },
+        "137": {
+            "teksArab": "اِنْ هٰذَآ اِلَّا خُلُقُ الْاَوَّلِيْنَ ۙ ",
+            "teksLatin": "in hāżā illā khuluqul-awwalīn(a).",
+            "teksIndonesia": "(agama kami) ini tidak lain hanyalah adat kebiasaan orang-orang terdahulu,"
+        },
+        "138": {
+            "teksArab": "وَمَا نَحْنُ بِمُعَذَّبِيْنَ ۚ ",
+            "teksLatin": "wa mā naḥnu bimu‘ażżabīn(a).",
+            "teksIndonesia": "dan kami (sama sekali) tidak akan diazab.”"
+        },
+        "139": {
+            "teksArab": "فَكَذَّبُوْهُ فَاَهْلَكْنٰهُمْۗ اِنَّ فِيْ ذٰلِكَ لَاٰيَةً ۗوَمَا كَانَ اَكْثَرُهُمْ مُّؤْمِنِيْنَ  ",
+            "teksLatin": "fa każżabūhu fa ahlaknāhum, inna fī żālika la'āyah(tan), wa mā kāna akṡaruhum mu'minīn(a).",
+            "teksIndonesia": "Maka mereka mendustakannya (Hud), lalu Kami binasakan mereka. Sungguh, pada yang demikian itu terdapat tanda (kekuasaan Allah), tetapi kebanyakan mereka tidak beriman."
+        },
+        "140": {
+            "teksArab": "وَاِنَّ رَبَّكَ لَهُوَ الْعَزِيْزُ الرَّحِيْمُ ࣖ",
+            "teksLatin": "wa inna rabbaka lahuwal-‘azīzur-raḥīm(u).",
+            "teksIndonesia": "Dan sungguh, Tuhanmu, Dialah Yang Mahaperkasa, Maha Penyayang."
+        },
+        "141": {
+            "teksArab": "كَذَّبَتْ ثَمُوْدُ الْمُرْسَلِيْنَ  ۖ ",
+            "teksLatin": "każżabat ṡamūdul-mursalīn(a).",
+            "teksIndonesia": "Kaum Samud telah mendustakan para rasul."
+        },
+        "142": {
+            "teksArab": "اِذْ قَالَ لَهُمْ اَخُوْهُمْ صٰلِحٌ اَلَا تَتَّقُوْنَ ۚ ",
+            "teksLatin": "iż qāla lahum akhūhum ṣāliḥun alā tattaqūn(a).",
+            "teksIndonesia": "Ketika saudara mereka Saleh berkata kepada mereka, “Mengapa kamu tidak bertakwa?"
+        },
+        "143": {
+            "teksArab": "اِنِّيْ لَكُمْ رَسُوْلٌ اَمِيْنٌ ۙ  ",
+            "teksLatin": "innī lakum rasūlun amīn(un).",
+            "teksIndonesia": "Sungguh, aku ini seorang rasul kepercayaan (yang diutus) kepadamu,"
+        },
+        "144": {
+            "teksArab": "فَاتَّقُوا اللّٰهَ وَاَطِيْعُوْنِ ۚ  ",
+            "teksLatin": "fattaqullāha wa aṭī‘ūn(i).",
+            "teksIndonesia": "karena itu bertakwalah kepada Allah dan taatlah kepadaku."
+        },
+        "145": {
+            "teksArab": "وَمَآ اَسْـَٔلُكُمْ عَلَيْهِ مِنْ اَجْرٍۚ اِنْ اَجْرِيَ اِلَّا عَلٰى رَبِّ الْعٰلَمِيْنَ ۗ ",
+            "teksLatin": "wa mā as'alukum ‘alaihi min ajr(in), in ajriya illā ‘alā rabbil-‘ālamīn(a).",
+            "teksIndonesia": "Dan aku tidak meminta sesuatu imbalan kepadamu atas ajakan itu, imbalanku hanyalah dari Tuhan seluruh alam."
+        },
+        "146": {
+            "teksArab": "اَتُتْرَكُوْنَ فِيْ مَا هٰهُنَآ اٰمِنِيْنَ ۙ ",
+            "teksLatin": "atutrakūna fīmā hāhunā āminīn(a).",
+            "teksIndonesia": "Apakah kamu (mengira) akan dibiarkan tinggal di sini (di negeri kamu ini) dengan aman,"
+        },
+        "147": {
+            "teksArab": "فِيْ جَنّٰتٍ وَّعُيُوْنٍ ۙ ",
+            "teksLatin": "fī jannātiw wa ‘uyūn(in).",
+            "teksIndonesia": "di dalam kebun-kebun dan mata air,"
+        },
+        "148": {
+            "teksArab": "وَّزُرُوْعٍ وَّنَخْلٍ طَلْعُهَا هَضِيْمٌ ۚ ",
+            "teksLatin": "wa zurū‘iw wa nakhlin ṭal‘uhā haḍīm(un).",
+            "teksIndonesia": "dan tanaman-tanaman dan pohon-pohon kurma yang mayangnya lembut."
+        },
+        "149": {
+            "teksArab": "وَتَنْحِتُوْنَ مِنَ الْجِبَالِ بُيُوْتًا فٰرِهِيْنَ ",
+            "teksLatin": "wa tanḥitūna minal-jibāli buyūtan fārihīn(a).",
+            "teksIndonesia": "Dan kamu pahat dengan terampil sebagian gunung-gunung untuk dijadikan rumah-rumah;"
+        },
+        "150": {
+            "teksArab": "فَاتَّقُوا اللّٰهَ وَاَطِيْعُوْنِ ۚ ",
+            "teksLatin": "fattaqullāha wa aṭī‘ūn(i).",
+            "teksIndonesia": "maka bertakwalah kepada Allah dan taatlah kepadaku;"
+        },
+        "151": {
+            "teksArab": "وَلَا تُطِيْعُوْٓا اَمْرَ الْمُسْرِفِيْنَ ۙ ",
+            "teksLatin": "wa lā tuṭī‘ū amral-musrifīn(a).",
+            "teksIndonesia": "dan janganlah kamu menaati perintah orang-orang yang melampaui batas,"
+        },
+        "152": {
+            "teksArab": "الَّذِيْنَ يُفْسِدُوْنَ فِى الْاَرْضِ وَلَا يُصْلِحُوْنَ  ",
+            "teksLatin": "allażīna yufsidūna fil-arḍi wa lā yaṣliḥūn(a).",
+            "teksIndonesia": "yang berbuat kerusakan di bumi dan tidak mengadakan perbaikan.”"
+        },
+        "153": {
+            "teksArab": "قَالُوْٓا اِنَّمَآ اَنْتَ مِنَ الْمُسَحَّرِيْنَ ۙ ",
+            "teksLatin": "qālū innamā anta minal-musaḥḥarīn(a).",
+            "teksIndonesia": "Mereka berkata, “Sungguh, engkau hanyalah termasuk orang yang kena sihir;"
+        },
+        "154": {
+            "teksArab": "مَآ اَنْتَ اِلَّا بَشَرٌ مِّثْلُنَاۙ فَأْتِ بِاٰيَةٍ اِنْ كُنْتَ مِنَ الصّٰدِقِيْنَ  ",
+            "teksLatin": "mā anta illā basyarum miṡlunā, fa'ti bi'āyatin in kunta minaṣ-ṣādiqīn(a).",
+            "teksIndonesia": "engkau hanyalah manusia seperti kami; maka datangkanlah sesuatu mukjizat jika engkau termasuk orang yang benar.”"
+        },
+        "155": {
+            "teksArab": "قَالَ هٰذِهٖ نَاقَةٌ لَّهَا شِرْبٌ وَّلَكُمْ شِرْبُ يَوْمٍ مَّعْلُوْمٍ ۚ ",
+            "teksLatin": "qāla hāżihī nāqatul lahā syirbuw wa lakum syirbu yaumim ma‘lūm(in).",
+            "teksIndonesia": "Dia (Saleh) menjawab, “Ini seekor unta betina, yang berhak mendapatkan (giliran) minum, dan kamu juga berhak mendapatkan minum pada hari yang ditentukan."
+        },
+        "156": {
+            "teksArab": "وَلَا تَمَسُّوْهَا بِسُوْۤءٍ فَيَأْخُذَكُمْ عَذَابُ يَوْمٍ عَظِيْمٍ  ",
+            "teksLatin": "wa lā tamassūhā bisū'in fa ya'khużakum ‘ażābu yaumin ‘aẓīm(in).",
+            "teksIndonesia": "Dan jangan kamu menyentuhnya (unta itu) dengan sesuatu kejahatan, nanti kamu akan ditimpa azab pada hari yang dahsyat.”"
+        },
+        "157": {
+            "teksArab": "فَعَقَرُوْهَا فَاَصْبَحُوْا نٰدِمِيْنَ ۙ ",
+            "teksLatin": "fa ‘aqarūhā fa aṣbaḥū nādimīn(a).",
+            "teksIndonesia": "Kemudian mereka membunuhnya, lalu mereka merasa menyesal,"
+        },
+        "158": {
+            "teksArab": "فَاَخَذَهُمُ الْعَذَابُۗ اِنَّ فِيْ ذٰلِكَ لَاٰيَةً ۗوَمَا كَانَ اَكْثَرُهُمْ مُّؤْمِنِيْنَ  ",
+            "teksLatin": "fa akhażahumul-‘ażāb(u), inna fī żālika la'āyah(tan), wa mā kāna akṡaruhum mu'minīn(a).",
+            "teksIndonesia": "maka mereka ditimpa azab. Sungguh, pada yang demikian itu terdapat tanda (kekuasaan Allah), tetapi kebanyakan mereka tidak beriman."
+        },
+        "159": {
+            "teksArab": "وَاِنَّ رَبَّكَ لَهُوَ الْعَزِيْزُ الرَّحِيْمُ ࣖ ",
+            "teksLatin": "wa inna rabbaka lahuwal-‘azīzur-raḥīm(u).",
+            "teksIndonesia": "Dan sungguh, Tuhanmu, Dialah Yang Mahaperkasa, Maha Penyayang."
+        },
+        "160": {
+            "teksArab": "كَذَّبَتْ قَوْمُ لُوْطِ ِۨالْمُرْسَلِيْنَ ۖ ",
+            "teksLatin": "każżabat qaumu lūṭinil-mursalīn(a).",
+            "teksIndonesia": "Kaum Lut telah mendustakan para rasul,"
+        },
+        "161": {
+            "teksArab": "اِذْ قَالَ لَهُمْ اَخُوْهُمْ لُوْطٌ اَلَا تَتَّقُوْنَ ۚ  ",
+            "teksLatin": "iż qāla lahum akhūhum lūṭun alā tattaqūn(a).",
+            "teksIndonesia": "ketika saudara mereka Lut berkata kepada mereka, “Mengapa kamu tidak bertakwa?”"
+        },
+        "162": {
+            "teksArab": "اِنِّيْ لَكُمْ رَسُوْلٌ اَمِيْنٌ ۙ ",
+            "teksLatin": "innī lakum rasūlun amīn(un).",
+            "teksIndonesia": "Sungguh, aku ini seorang rasul kepercayaan (yang diutus) kepadamu,"
+        },
+        "163": {
+            "teksArab": "فَاتَّقُوا اللّٰهَ وَاَطِيْعُوْنِ ۚ ",
+            "teksLatin": "fattaqullāha wa aṭī‘ūn(i).",
+            "teksIndonesia": "maka bertakwalah kepada Allah dan taatlah kepadaku."
+        },
+        "164": {
+            "teksArab": "وَمَآ اَسْـَٔلُكُمْ عَلَيْهِ مِنْ اَجْرٍ اِنْ اَجْرِيَ اِلَّا عَلٰى رَبِّ الْعٰلَمِيْنَ ۗ ",
+            "teksLatin": "wa mā as'alukum ‘alaihi min ajrin in ajriya illā ‘alā rabbil-‘ālamīn(a).",
+            "teksIndonesia": "Dan aku tidak meminta imbalan kepadamu atas ajakan itu; imbalanku hanyalah dari Tuhan seluruh alam."
+        },
+        "165": {
+            "teksArab": "اَتَأْتُوْنَ الذُّكْرَانَ مِنَ الْعٰلَمِيْنَ ۙ ",
+            "teksLatin": "ata'tūnaż-żukrāna minal-‘ālamīn(a).",
+            "teksIndonesia": "Mengapa kamu mendatangi jenis laki-laki di antara manusia (berbuat homoseks),"
+        },
+        "166": {
+            "teksArab": "وَتَذَرُوْنَ مَا خَلَقَ لَكُمْ رَبُّكُمْ مِّنْ اَزْوَاجِكُمْۗ بَلْ اَنْتُمْ قَوْمٌ عَادُوْنَ",
+            "teksLatin": "wa tażarūna mā khalaqa lakum rabbukum min azwājikum, bal antum qamun ‘ādūn(a).",
+            "teksIndonesia": "dan kamu tinggalkan (perempuan) yang diciptakan Tuhan untuk menjadi istri-istri kamu? Kamu (memang) orang-orang yang melampaui batas.” "
+        },
+        "167": {
+            "teksArab": "قَالُوْا لَىِٕنْ لَّمْ تَنْتَهِ يٰلُوْطُ لَتَكُوْنَنَّ مِنَ الْمُخْرَجِيْنَ  ",
+            "teksLatin": "qālū la'illam tantahi yā lūṭu latakūnanna minal-mukhrajīn(a).",
+            "teksIndonesia": "Mereka menjawab, “Wahai Lut! Jika engkau tidak berhenti, engkau termasuk orang-orang yang terusir.”"
+        },
+        "168": {
+            "teksArab": "قَالَ اِنِّيْ لِعَمَلِكُمْ مِّنَ الْقَالِيْنَ  ۗ",
+            "teksLatin": "qāla innī li‘amalikum minal-qālīn(a).",
+            "teksIndonesia": "Dia (Lut) berkata, “Aku sungguh benci kepada perbuatanmu.”"
+        },
+        "169": {
+            "teksArab": "رَبِّ نَجِّنِيْ وَاَهْلِيْ مِمَّا يَعْمَلُوْنَ  ",
+            "teksLatin": "rabbi najjinī wa ahlī mimmā ya‘malūn(a).",
+            "teksIndonesia": "(Lut berdoa), “Ya Tuhanku, selamatkanlah aku dan keluargaku dari (akibat) perbuatan yang mereka kerjakan.”"
+        },
+        "170": {
+            "teksArab": "فَنَجَّيْنٰهُ وَاَهْلَهٗٓ اَجْمَعِيْنَ ۙ ",
+            "teksLatin": "fa najjaināhu wa ahlahū ajma‘īn(a).",
+            "teksIndonesia": "Lalu Kami selamatkan dia bersama keluarganya semua,"
+        },
+        "171": {
+            "teksArab": "اِلَّا عَجُوْزًا فِى الْغٰبِرِيْنَ ۚ  ",
+            "teksLatin": "illā ‘ajūzan fil-gābirīn(a).",
+            "teksIndonesia": "kecuali seorang perempuan tua (istrinya), yang termasuk dalam golongan yang tinggal."
+        },
+        "172": {
+            "teksArab": "ثُمَّ دَمَّرْنَا الْاٰخَرِيْنَ ۚ ",
+            "teksLatin": "Ṡumma dammarnal-ākharīn(a).",
+            "teksIndonesia": "Kemudian Kami binasakan yang lain."
+        },
+        "173": {
+            "teksArab": "وَاَمْطَرْنَا عَلَيْهِمْ مَّطَرًاۚ فَسَاۤءَ مَطَرُ الْمُنْذَرِيْنَ ",
+            "teksLatin": "wa amṭarnā ‘alaihim maṭarā(n), fa sā'a maṭarul-munżarīn(a).",
+            "teksIndonesia": "Dan Kami hujani mereka (dengan hujan batu), maka betapa buruk hujan yang menimpa orang-orang yang telah diberi peringatan itu."
+        },
+        "174": {
+            "teksArab": "اِنَّ فِيْ ذٰلِكَ لَاٰيَةً ۗوَمَا كَانَ اَكْثَرُهُمْ مُّؤْمِنِيْنَ  ",
+            "teksLatin": "inna fī żālika la'āyah(tan), wa mā kāna akṡaruhum mu'minīn(a).",
+            "teksIndonesia": "Sungguh, pada yang demikian itu terdapat tanda (kekuasaan Allah), tetapi kebanyakan mereka tidak beriman."
+        },
+        "175": {
+            "teksArab": "وَاِنَّ رَبَّكَ لَهُوَ الْعَزِيْزُ الرَّحِيْمُ ࣖ",
+            "teksLatin": "wa inna rabbaka lahuwal-‘azīzur-raḥīm(u).",
+            "teksIndonesia": "Dan sungguh, Tuhanmu, Dialah Yang Mahaperkasa, Maha Penyayang."
+        },
+        "176": {
+            "teksArab": "كَذَّبَ اَصْحٰبُ لْـَٔيْكَةِ الْمُرْسَلِيْنَ ۖ ",
+            "teksLatin": "każżaba aṣḥābul-aikatil-mursalīn(a).",
+            "teksIndonesia": "Penduduk Aikah telah mendustakan para rasul;"
+        },
+        "177": {
+            "teksArab": "اِذْ قَالَ لَهُمْ شُعَيْبٌ اَلَا تَتَّقُوْنَ ۚ ",
+            "teksLatin": "iż qāla lahum syu‘aibun alā tattaqūn(a).",
+            "teksIndonesia": "ketika Syuaib berkata kepada mereka, “Mengapa kamu tidak bertakwa?"
+        },
+        "178": {
+            "teksArab": "اِنِّيْ لَكُمْ رَسُوْلٌ اَمِيْنٌ ۙ ",
+            "teksLatin": "innī lakum rasūlun amīn(un).",
+            "teksIndonesia": "Sungguh, aku adalah rasul kepercayaan (yang diutus) kepadamu,"
+        },
+        "179": {
+            "teksArab": "فَاتَّقُوا اللّٰهَ وَاَطِيْعُوْنِ ۚ ",
+            "teksLatin": "fattaqullāha wa aṭī‘ūn(i).",
+            "teksIndonesia": "maka bertakwalah kepada Allah dan taatlah kepadaku;"
+        },
+        "180": {
+            "teksArab": "وَمَآ اَسْـَٔلُكُمْ عَلَيْهِ مِنْ اَجْرٍ اِنْ اَجْرِيَ اِلَّا عَلٰى رَبِّ الْعٰلَمِيْنَ ۗ ",
+            "teksLatin": "wa mā as'alukum ‘alaihi min ajrin in ajriya illā ‘alā rabbil-‘ālamīn(a).",
+            "teksIndonesia": "Dan aku tidak meminta imbalan kepadamu atas ajakan itu; imbalanku hanyalah dari Tuhan seluruh alam."
+        },
+        "181": {
+            "teksArab": "۞ اَوْفُوا الْكَيْلَ وَلَا تَكُوْنُوْا مِنَ الْمُخْسِرِيْنَ ۚ ",
+            "teksLatin": "auful-kaila wa lā takūnū minal-mukhsirīn(a).",
+            "teksIndonesia": "Sempurnakanlah takaran dan janganlah kamu merugikan orang lain."
+        },
+        "182": {
+            "teksArab": "وَزِنُوْا بِالْقِسْطَاسِ الْمُسْتَقِيْمِ ۚ ",
+            "teksLatin": "wazinū bil-qisṭāsil-mustaqīm(i).",
+            "teksIndonesia": "Dan timbanglah dengan timbangan yang benar."
+        },
+        "183": {
+            "teksArab": "وَلَا تَبْخَسُوا النَّاسَ اَشْيَاۤءَهُمْ وَلَا تَعْثَوْا فِى الْاَرْضِ مُفْسِدِيْنَ ۚ ",
+            "teksLatin": "wa lā tabkhasun-nāsa asy-yā'ahum wa lā ta‘ṡau fil-arḍi mufsidīn(a).",
+            "teksIndonesia": "Dan janganlah kamu merugikan manusia dengan mengurangi hak-haknya dan janganlah membuat kerusakan di bumi;"
+        },
+        "184": {
+            "teksArab": "وَاتَّقُوا الَّذِيْ خَلَقَكُمْ وَالْجِبِلَّةَ الْاَوَّلِيْنَ ۗ ",
+            "teksLatin": "wattaqul-lażī khalaqakum wal-jibillatal-awwalīn(a).",
+            "teksIndonesia": "dan bertakwalah kepada Allah yang telah menciptakan kamu dan umat-umat yang terdahulu.”"
+        },
+        "185": {
+            "teksArab": "قَالُوْٓا اِنَّمَآ اَنْتَ مِنَ الْمُسَحَّرِيْنَ ۙ ",
+            "teksLatin": "qālū innamā anta minal-musaḥḥarīn(a).",
+            "teksIndonesia": "Mereka berkata, “Engkau tidak lain hanyalah orang-orang yang kena sihir."
+        },
+        "186": {
+            "teksArab": "وَمَآ اَنْتَ اِلَّا بَشَرٌ مِّثْلُنَا وَاِنْ نَّظُنُّكَ لَمِنَ الْكٰذِبِيْنَ ۚ ",
+            "teksLatin": "wa mā anta illā basyarum miṡlunā wa in naẓunnuka laminal-kāżibīn(a).",
+            "teksIndonesia": "Dan engkau hanyalah manusia seperti kami, dan sesungguhnya kami yakin engkau termasuk orang-orang yang berdusta."
+        },
+        "187": {
+            "teksArab": "فَاَسْقِطْ عَلَيْنَا كِسَفًا مِّنَ السَّمَاۤءِ اِنْ كُنْتَ مِنَ الصّٰدِقِيْنَ ۗ ",
+            "teksLatin": "fa asqiṭ ‘alainā kisafam minas-samā'i in kunta minaṣ-ṣādiqīn(a).",
+            "teksIndonesia": "Maka jatuhkanlah kepada kami gumpalan dari langit, jika engkau termasuk orang-orang yang benar.”"
+        },
+        "188": {
+            "teksArab": "قَالَ رَبِّيْٓ اَعْلَمُ بِمَا تَعْمَلُوْنَ  ",
+            "teksLatin": "qāla rabbī a‘lamu bimā ta‘malūn(a).",
+            "teksIndonesia": "Dia (Syuaib) berkata, “Tuhanku lebih mengetahui apa yang kamu kerjakan.”"
+        },
+        "189": {
+            "teksArab": "فَكَذَّبُوْهُ فَاَخَذَهُمْ عَذَابُ يَوْمِ الظُّلَّةِ ۗاِنَّهٗ كَانَ عَذَابَ يَوْمٍ عَظِيْمٍ ",
+            "teksLatin": "fa każżabūhu fa akhażahum ‘ażābu yaumiẓ-ẓullah(ti), innahū kāna ‘ażāba yaumin ‘aẓīm(in).",
+            "teksIndonesia": "Kemudian mereka mendustakannya (Syuaib), lalu mereka ditimpa azab pada hari yang gelap. Sungguh, itulah azab pada hari yang dahsyat."
+        },
+        "190": {
+            "teksArab": "اِنَّ فِيْ ذٰلِكَ لَاٰيَةً ۗوَمَا كَانَ اَكْثَرُهُمْ مُّؤْمِنِيْنَ  ",
+            "teksLatin": "inna fī żālika la'āyah(tan), wa mā kāna akṡaruhum mu'minīn(a).",
+            "teksIndonesia": "Sungguh, pada yang demikian itu benar-benar terdapat tanda (kekuasaan Allah), tetapi kebanyakan mereka tidak beriman."
+        },
+        "191": {
+            "teksArab": "وَاِنَّ رَبَّكَ لَهُوَ الْعَزِيْزُ الرَّحِيْمُ ࣖ ",
+            "teksLatin": "wa inna rabbaka lahuwal-‘azīzur-raḥīm(u).",
+            "teksIndonesia": "Dan sungguh, Tuhanmu, Dialah yang Mahaperkasa, Maha Penyayang."
+        },
+        "192": {
+            "teksArab": "وَاِنَّهٗ لَتَنْزِيْلُ رَبِّ الْعٰلَمِيْنَ ۗ  ",
+            "teksLatin": "wa innahū latanzīlu rabbil-‘ālamīn(a).",
+            "teksIndonesia": "Dan sungguh, (Al-Qur'an) ini benar-benar diturunkan oleh Tuhan seluruh alam,"
+        },
+        "193": {
+            "teksArab": "نَزَلَ بِهِ الرُّوْحُ الْاَمِيْنُ ۙ ",
+            "teksLatin": "nazala bihir rūḥul-amīn(u).",
+            "teksIndonesia": "Yang dibawa turun oleh ar-Ruh al-Amin (Jibril), "
+        },
+        "194": {
+            "teksArab": "عَلٰى قَلْبِكَ لِتَكُوْنَ مِنَ الْمُنْذِرِيْنَ ۙ  ",
+            "teksLatin": "‘alā qalbika litakūna minal-munżirīn(a).",
+            "teksIndonesia": "ke dalam hatimu (Muhammad) agar engkau termasuk orang yang memberi peringatan,"
+        },
+        "195": {
+            "teksArab": "بِلِسَانٍ عَرَبِيٍّ مُّبِيْنٍ ۗ ",
+            "teksLatin": "bilisānin ‘arabiyyim mubīn(in).",
+            "teksIndonesia": "dengan bahasa Arab yang jelas."
+        },
+        "196": {
+            "teksArab": "وَاِنَّهٗ لَفِيْ زُبُرِ الْاَوَّلِيْنَ  ",
+            "teksLatin": "wa innahū lafī zuburil-awwalīn(a).",
+            "teksIndonesia": "Dan sungguh, (Al-Qur'an) itu (disebut) dalam kitab-kitab orang yang terdahulu."
+        },
+        "197": {
+            "teksArab": "اَوَلَمْ يَكُنْ لَّهُمْ اٰيَةً اَنْ يَّعْلَمَهٗ عُلَمٰۤؤُا بَنِيْٓ اِسْرَاۤءِيْلَ  ",
+            "teksLatin": "awalam yakul lahum āyatan ay ya‘lamahū ‘ulamā'u banī isrā'īl(a).",
+            "teksIndonesia": "Apakah tidak (cukup) menjadi bukti bagi mereka, bahwa para ulama Bani Israil mengetahuinya?"
+        },
+        "198": {
+            "teksArab": "وَلَوْ نَزَّلْنٰهُ عَلٰى بَعْضِ الْاَعْجَمِيْنَ ۙ ",
+            "teksLatin": "wa lau nazzalnāhū ‘alā ba‘ḍil-a‘jamīn(a).",
+            "teksIndonesia": "Dan seandainya (Al-Qur'an) itu Kami turunkan kepada sebagian dari golongan bukan Arab,"
+        },
+        "199": {
+            "teksArab": "فَقَرَاَهٗ عَلَيْهِمْ مَّا كَانُوْا بِهٖ مُؤْمِنِيْنَ ۗ  ",
+            "teksLatin": "fa qara'ahū ‘alaihim mā kānū bihī mu'minīn(a).",
+            "teksIndonesia": "lalu dia membacakannya kepada mereka (orang-orang kafir); niscaya mereka tidak juga akan beriman kepadanya."
+        },
+        "200": {
+            "teksArab": "كَذٰلِكَ سَلَكْنٰهُ فِيْ قُلُوْبِ الْمُجْرِمِيْنَ ۗ  ",
+            "teksLatin": "każālika salaknāhu fī qulūbil-mujrimīn(a).",
+            "teksIndonesia": "Demikianlah, Kami masukkan (sifat dusta dan ingkar) ke dalam hati orang-orang yang berdosa,"
+        },
+        "201": {
+            "teksArab": "لَا يُؤْمِنُوْنَ بِهٖ حَتّٰى يَرَوُا الْعَذَابَ الْاَلِيْمَ  ",
+            "teksLatin": "lā yu'minūna bihī ḥattā yarawul-‘ażābal-alīm(a).",
+            "teksIndonesia": "mereka tidak akan beriman kepadanya, hingga mereka melihat azab yang pedih,"
+        },
+        "202": {
+            "teksArab": "فَيَأْتِيَهُمْ بَغْتَةً وَّهُمْ لَا يَشْعُرُوْنَ ۙ  ",
+            "teksLatin": "fa ya'tiyahum bagtataw wa hum lā yasy‘urūn(a).",
+            "teksIndonesia": "maka datang azab kepada mereka secara mendadak, ketika mereka tidak menyadarinya,"
+        },
+        "203": {
+            "teksArab": "فَيَقُوْلُوْا هَلْ نَحْنُ مُنْظَرُوْنَ ۗ ",
+            "teksLatin": "fa yaqūlū hal naḥnu munẓarūn(a).",
+            "teksIndonesia": "lalu mereka berkata, “Apakah kami diberi penangguhan waktu?” "
+        },
+        "204": {
+            "teksArab": "اَفَبِعَذَابِنَا يَسْتَعْجِلُوْنَ  ",
+            "teksLatin": "afa bi‘ażābinā yasta‘jilūn(a).",
+            "teksIndonesia": "Bukankah mereka yang meminta agar azab Kami dipercepat?"
+        },
+        "205": {
+            "teksArab": "اَفَرَءَيْتَ اِنْ مَّتَّعْنٰهُمْ سِنِيْنَ ۙ  ",
+            "teksLatin": "afa ra'aita im matta‘nāhum sinīn(a).",
+            "teksIndonesia": "Maka bagaimana pendapatmu jika kepada mereka Kami berikan kenikmatan hidup beberapa tahun,"
+        },
+        "206": {
+            "teksArab": "ثُمَّ جَاۤءَهُمْ مَّا كَانُوْا يُوْعَدُوْنَ ۙ  ",
+            "teksLatin": "Ṡumma jā'ahum mā kānū yū‘adūn(a).",
+            "teksIndonesia": "kemudian datang kepada mereka azab yang diancamkan kepada mereka,"
+        },
+        "207": {
+            "teksArab": "مَآ اَغْنٰى عَنْهُمْ مَّا كَانُوْا يُمَتَّعُوْنَ ۗ ",
+            "teksLatin": "mā agnā ‘anhum mā kānū yumatta‘ūn(a).",
+            "teksIndonesia": "niscaya tidak berguna bagi mereka kenikmatan yang mereka rasakan."
+        },
+        "208": {
+            "teksArab": "وَمَآ اَهْلَكْنَا مِنْ قَرْيَةٍ اِلَّا لَهَا مُنْذِرُوْنَ ۖ  ",
+            "teksLatin": "wa mā ahlaknā min qaryatin illā lahā munżirūn(a).",
+            "teksIndonesia": "Dan Kami tidak membinasakan sesuatu negeri, kecuali setelah ada orang-orang yang memberi peringatan kepadanya;"
+        },
+        "209": {
+            "teksArab": "ذِكْرٰىۚ وَمَا كُنَّا ظٰلِمِيْنَ  ",
+            "teksLatin": "Żikrā, wa mā kunnā ẓālimīn(a).",
+            "teksIndonesia": "untuk (menjadi) peringatan. Dan Kami tidak berlaku zalim. "
+        },
+        "210": {
+            "teksArab": "وَمَا تَنَزَّلَتْ بِهِ الشَّيٰطِيْنُ  ",
+            "teksLatin": "wa mā tanazzalat bihisy-syayāṭīn(u).",
+            "teksIndonesia": "Dan (Al-Qur'an) itu tidaklah dibawa turun oleh setan-setan."
+        },
+        "211": {
+            "teksArab": "وَمَا يَنْۢبَغِيْ لَهُمْ وَمَا يَسْتَطِيْعُوْنَ ۗ  ",
+            "teksLatin": "wa mā yambagī lahum wa mā yastaṭī‘ūn(a).",
+            "teksIndonesia": "Dan tidaklah pantas bagi mereka (Al-Qur'an itu), dan mereka pun tidak akan sanggup."
+        },
+        "212": {
+            "teksArab": "اِنَّهُمْ عَنِ السَّمْعِ لَمَعْزُوْلُوْنَ ۗ ",
+            "teksLatin": "innahum ‘anis-sam‘i lama‘zūlūn(a).",
+            "teksIndonesia": "Sesungguhnya untuk mendengarkannya pun mereka dijauhkan."
+        },
+        "213": {
+            "teksArab": "فَلَا تَدْعُ مَعَ اللّٰهِ اِلٰهًا اٰخَرَ فَتَكُوْنَ مِنَ الْمُعَذَّبِيْنَ",
+            "teksLatin": "falā tad‘u ma‘allāhi ilāhan ākhara fa takūna minal-mu‘ażżabīn(a).",
+            "teksIndonesia": "Maka janganlah kamu menyeru (menyembah) tuhan selain Allah, nanti kamu termasuk orang-orang yang diazab."
+        },
+        "214": {
+            "teksArab": "وَاَنْذِرْ عَشِيْرَتَكَ الْاَقْرَبِيْنَ ۙ ",
+            "teksLatin": "wa anżir ‘asyīratakal-aqrabīn(a).",
+            "teksIndonesia": "Dan berilah peringatan kepada kerabat-kerabatmu (Muhammad) yang terdekat,"
+        },
+        "215": {
+            "teksArab": "وَاخْفِضْ جَنَاحَكَ لِمَنِ اتَّبَعَكَ مِنَ الْمُؤْمِنِيْنَ ۚ  ",
+            "teksLatin": "wakhfiḍ janāḥaka limanittaba‘aka minal-mu'minīn(a).",
+            "teksIndonesia": "dan rendahkanlah dirimu terhadap orang-orang yang beriman yang mengikutimu."
+        },
+        "216": {
+            "teksArab": "فَاِنْ عَصَوْكَ فَقُلْ اِنِّيْ بَرِيْۤءٌ مِّمَّا تَعْمَلُوْنَ ۚ ",
+            "teksLatin": "fa in ‘aṣauka faqul innī barī'um mimmā ta‘malūn(a).",
+            "teksIndonesia": "Kemudian jika mereka mendurhakaimu maka katakanlah (Muhammad), “Sesungguhnya aku tidak bertanggung jawab terhadap apa yang kamu kerjakan.”"
+        },
+        "217": {
+            "teksArab": "وَتَوَكَّلْ عَلَى الْعَزِيْزِ الرَّحِيْمِ ۙ ",
+            "teksLatin": "wa tawakkal ‘alal-‘azīzir-raḥīm(i).",
+            "teksIndonesia": "Dan bertawakallah kepada (Allah) Yang Mahaperkasa, Maha Penyayang."
+        },
+        "218": {
+            "teksArab": "الَّذِيْ يَرٰىكَ حِيْنَ تَقُوْمُ  ",
+            "teksLatin": "allażī yarāka ḥīna taqūm(u).",
+            "teksIndonesia": "Yang melihat engkau ketika engkau berdiri (untuk salat),"
+        },
+        "219": {
+            "teksArab": "وَتَقَلُّبَكَ فِى السّٰجِدِيْنَ  ",
+            "teksLatin": "wa taqallubaka fis-sājidīn(a).",
+            "teksIndonesia": "dan (melihat) perubahan gerakan badanmu di antara orang-orang yang sujud."
+        },
+        "220": {
+            "teksArab": "اِنَّهٗ هُوَ السَّمِيْعُ الْعَلِيْمُ  ",
+            "teksLatin": "innahū huwas-samī‘ul-‘alīm(u).",
+            "teksIndonesia": "Sungguh, Dia Maha Mendengar, Maha Mengetahui."
+        },
+        "221": {
+            "teksArab": "هَلْ اُنَبِّئُكُمْ عَلٰى مَنْ تَنَزَّلُ الشَّيٰطِيْنُ ۗ  ",
+            "teksLatin": "hal unabbi'ukum ‘alā man tanazzalusy-syayāṭīn(u).",
+            "teksIndonesia": "Maukah Aku beritakan kepadamu, kepada siapa setan-setan itu turun?"
+        },
+        "222": {
+            "teksArab": "تَنَزَّلُ عَلٰى كُلِّ اَفَّاكٍ اَثِيْمٍ ۙ ",
+            "teksLatin": "tanazzalu ‘alā kulli affākin aṡīm(in).",
+            "teksIndonesia": "Mereka (setan) turun kepada setiap pendusta yang banyak berdosa,"
+        },
+        "223": {
+            "teksArab": "يُّلْقُوْنَ السَّمْعَ وَاَكْثَرُهُمْ كٰذِبُوْنَ ۗ  ",
+            "teksLatin": "yulqūnas-sam‘a wa akṡaruhum kāżibūn(a).",
+            "teksIndonesia": "mereka menyampaikan hasil pendengaran mereka, sedangkan kebanyakan mereka orang-orang pendusta."
+        },
+        "224": {
+            "teksArab": "وَالشُّعَرَاۤءُ يَتَّبِعُهُمُ الْغَاوٗنَ ۗ ",
+            "teksLatin": "wasy-syu‘arā'u yattabi‘uhumul-gāwūn(a).",
+            "teksIndonesia": "Dan penyair-penyair itu diikuti oleh orang-orang yang sesat."
+        },
+        "225": {
+            "teksArab": "اَلَمْ تَرَ اَنَّهُمْ فِيْ كُلِّ وَادٍ يَّهِيْمُوْنَ ۙ ",
+            "teksLatin": "alam tara annahum fī kulli wādiy yahīmūn(a).",
+            "teksIndonesia": "Tidakkah engkau melihat bahwa mereka mengembara di setiap lembah,"
+        },
+        "226": {
+            "teksArab": "وَاَنَّهُمْ يَقُوْلُوْنَ مَا لَا يَفْعَلُوْنَ ۙ  ",
+            "teksLatin": "wa annahum yaqūlūna mā lā yaf‘alūn(a).",
+            "teksIndonesia": "dan bahwa mereka mengatakan apa yang mereka sendiri tidak mengerjakan(nya)?"
+        },
+        "227": {
+            "teksArab": "اِلَّا الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ وَذَكَرُوا اللّٰهَ كَثِيْرًا وَّانْتَصَرُوْا مِنْۢ بَعْدِ مَا ظُلِمُوْا ۗوَسَيَعْلَمُ الَّذِيْنَ ظَلَمُوْٓا اَيَّ مُنْقَلَبٍ يَّنْقَلِبُوْنَ ࣖ ",
+            "teksLatin": "illal-lażīna āmanū wa ‘amiluṣ-ṣāliḥāti wa żakarullāha kaṡīraw wantaṣarū mim ba‘di mā ẓulimū, wa saya‘lamul-lażīna ẓalamū ayya munqalabiy yanqalibūn(a).",
+            "teksIndonesia": "Kecuali orang-orang (penyair-penyair) yang beriman dan berbuat kebajikan dan banyak mengingat Allah dan mendapat kemenangan setelah terzalimi (karena menjawab puisi-puisi orang-orang kafir). Dan orang-orang yang zalim kelak akan tahu ke tempat mana mereka akan kembali."
+        }
+    }
+}

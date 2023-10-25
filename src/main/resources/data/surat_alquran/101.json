@@ -1,0 +1,65 @@
+{
+    "nomor": 101,
+    "nama": "القارعة",
+    "namaLatin": "Al-Qari'ah",
+    "jumlahAyat": 11,
+    "tempatTurun": "Mekah",
+    "arti": "Hari Kiamat",
+    "ayat": {
+        "1": {
+            "teksArab": "اَلْقَارِعَةُۙ",
+            "teksLatin": "al-qāri‘ah(tu).",
+            "teksIndonesia": "Hari Kiamat,"
+        },
+        "2": {
+            "teksArab": "مَا الْقَارِعَةُ ۚ",
+            "teksLatin": "mal-qāri‘ah(tu).",
+            "teksIndonesia": "Apakah hari Kiamat itu?"
+        },
+        "3": {
+            "teksArab": "وَمَآ اَدْرٰىكَ مَا الْقَارِعَةُ ۗ",
+            "teksLatin": "wa mā adrāka mal-qāri‘ah(tu).",
+            "teksIndonesia": "Dan tahukah kamu apakah hari Kiamat itu?"
+        },
+        "4": {
+            "teksArab": "يَوْمَ يَكُوْنُ النَّاسُ كَالْفَرَاشِ الْمَبْثُوْثِۙ",
+            "teksLatin": "yauma yakūnun-nāsu kal-farāsyil-mabṡūṡ(i).",
+            "teksIndonesia": "Pada hari itu manusia seperti laron yang beterbangan,"
+        },
+        "5": {
+            "teksArab": "وَتَكُوْنُ الْجِبَالُ كَالْعِهْنِ الْمَنْفُوْشِۗ",
+            "teksLatin": "wa takūnul-jibālu kal-‘ihnil-manfūsy(i).",
+            "teksIndonesia": "dan gunung-gunung seperti bulu yang dihambur-hamburkan."
+        },
+        "6": {
+            "teksArab": "فَاَمَّا مَنْ ثَقُلَتْ مَوَازِينُهٗۙ",
+            "teksLatin": "fa ammā man ṡaqulat mawāzīnuh(ū).",
+            "teksIndonesia": "Maka adapun orang yang berat timbangan (kebaikan)nya,"
+        },
+        "7": {
+            "teksArab": "فَهُوَ فِيْ عِيْشَةٍ رَّاضِيَةٍۗ",
+            "teksLatin": "fa huwa fī ‘īsyatir rāḍiyah(tin).",
+            "teksIndonesia": "maka dia berada dalam kehidupan yang memuaskan (senang)."
+        },
+        "8": {
+            "teksArab": "وَاَمَّا مَنْ خَفَّتْ مَوَازِيْنُهٗۙ",
+            "teksLatin": "wa ammā man khaffat mawāzīnuh(ū).",
+            "teksIndonesia": "Dan adapun orang yang ringan timbangan (kebaikan)nya,"
+        },
+        "9": {
+            "teksArab": "فَاُمُّهٗ هَاوِيَةٌ  ۗ",
+            "teksLatin": "fa ummuhū hāwiyah(tun).",
+            "teksIndonesia": "maka tempat kembalinya adalah neraka Hawiyah."
+        },
+        "10": {
+            "teksArab": "وَمَآ اَدْرٰىكَ مَا هِيَهْۗ",
+            "teksLatin": "wa mā adrāka mā hiyah.",
+            "teksIndonesia": "Dan tahukah kamu apakah neraka Hawiyah itu?"
+        },
+        "11": {
+            "teksArab": "نَارٌ حَامِيَةٌ ࣖ",
+            "teksLatin": "nārun ḥāmiyah(tun).",
+            "teksIndonesia": "(Yaitu) api yang sangat panas."
+        }
+    }
+}

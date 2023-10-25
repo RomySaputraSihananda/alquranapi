@@ -1,0 +1,40 @@
+{
+    "nomor": 114,
+    "nama": "الناس",
+    "namaLatin": "An-Nas",
+    "jumlahAyat": 6,
+    "tempatTurun": "Mekah",
+    "arti": "Manusia",
+    "ayat": {
+        "1": {
+            "teksArab": "قُلْ اَعُوْذُ بِرَبِّ النَّاسِۙ",
+            "teksLatin": "qul a‘ūżu birabbin-nās(i).",
+            "teksIndonesia": "Katakanlah, “Aku berlindung kepada Tuhannya manusia,"
+        },
+        "2": {
+            "teksArab": "مَلِكِ النَّاسِۙ",
+            "teksLatin": "malikin-nās(i).",
+            "teksIndonesia": "Raja manusia,"
+        },
+        "3": {
+            "teksArab": "اِلٰهِ النَّاسِۙ",
+            "teksLatin": "ilāhin-nās(i).",
+            "teksIndonesia": "sembahan manusia,"
+        },
+        "4": {
+            "teksArab": "مِنْ شَرِّ الْوَسْوَاسِ ەۙ الْخَنَّاسِۖ",
+            "teksLatin": "min syarril-waswāsil-khannās(i).",
+            "teksIndonesia": "dari kejahatan (bisikan) setan yang bersembunyi,"
+        },
+        "5": {
+            "teksArab": "الَّذِيْ يُوَسْوِسُ فِيْ صُدُوْرِ النَّاسِۙ",
+            "teksLatin": "allażī yuwaswisu fī ṣudūrin-nās(i).",
+            "teksIndonesia": "yang membisikkan (kejahatan) ke dalam dada manusia,"
+        },
+        "6": {
+            "teksArab": "مِنَ الْجِنَّةِ وَالنَّاسِ ࣖ ",
+            "teksLatin": "minal jinnati wan-nās(i).",
+            "teksIndonesia": "dari (golongan) jin dan manusia.”"
+        }
+    }
+}
