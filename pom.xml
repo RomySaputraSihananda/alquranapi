@@ -9,10 +9,10 @@
 		<version>3.2.0-SNAPSHOT</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>org.apiquran</groupId>
-	<artifactId>apiquran</artifactId>
+	<groupId>org.alquranapi</groupId>
+	<artifactId>alquranapi</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>apiquran</name>
+	<name>alquranapi</name>
 	<description>Simple rest API al-quran</description>
 	<properties>
 		<java.version>17</java.version>
