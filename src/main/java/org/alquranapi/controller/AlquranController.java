@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("/api/v1/alquran")
-public class alquranController {
+public class AlquranController {
 
     @Autowired
     private AlquranService alquranService;
