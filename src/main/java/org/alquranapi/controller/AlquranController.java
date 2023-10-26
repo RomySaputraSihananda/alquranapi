@@ -47,16 +47,4 @@ public class AlquranController {
                                                 this.alquranService.getTafsir(nomorSurat)),
                                 HttpStatus.OK);
         }
-
-        @Operation(summary = "Get surat per juz", description = "API for get surat per juz")
-        @GetMapping("/juz/{nomorJuz}")
-        public ResponseEntity<?> handlerGetPerJuz(@PathVariable int nomorJuz) {
-                return new ResponseEntity<>(
-                                // new BodyResponse<>("ok", HttpStatus.OK.value(),
-                                // "all detail surat Al-Quran juz " + nomorJuz,
-                                this.alquranService.getPerJuz(nomorJuz)
-                                // )
-                                ,
-                                HttpStatus.OK);
-        }
 }
