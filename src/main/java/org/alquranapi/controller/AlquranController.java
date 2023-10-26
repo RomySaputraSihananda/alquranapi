@@ -2,6 +2,7 @@ package org.alquranapi.controller;
 
 import org.alquranapi.Model.DTO.SuratDTO;
 import org.alquranapi.Model.DTO.SuratDetailDTO;
+import org.alquranapi.Model.DTO.SuratTafsirDTO;
 import org.alquranapi.payload.response.BodyResponse;
 import org.alquranapi.service.AlquranService;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -37,13 +38,25 @@ public class AlquranController {
                                 HttpStatus.OK);
         }
 
-        @Operation(summary = "Get detail surat", description = "API for get detail surat")
-        @GetMapping("juz/{nomorJuz}")
-        public ResponseEntity<BodyResponse<SuratDetailDTO>> handlerGetPerJuz(@PathVariable int nomorJuz) {
+        @Operation(summary = "Get tafsir surat", description = "API for get tafsir surat")
+        @GetMapping("/tafsir/{nomorSurat}")
+        public ResponseEntity<BodyResponse<SuratTafsirDTO>> handlerGetTafsir(@PathVariable int nomorSurat) {
                 return new ResponseEntity<>(
                                 new BodyResponse<>("ok", HttpStatus.OK.value(),
-                                                "all detail surat Al-Quran juz " + nomorJuz,
-                                                this.alquranService.getPerJuz(nomorJuz)),
+                                                "all tafsir surat Al-Quran nomor " + nomorSurat,
+                                                this.alquranService.getTafsir(nomorSurat)),
+                                HttpStatus.OK);
+        }
+
+        @Operation(summary = "Get surat per juz", description = "API for get surat per juz")
+        @GetMapping("/juz/{nomorJuz}")
+        public ResponseEntity<?> handlerGetPerJuz(@PathVariable int nomorJuz) {
+                return new ResponseEntity<>(
+                                // new BodyResponse<>("ok", HttpStatus.OK.value(),
+                                // "all detail surat Al-Quran juz " + nomorJuz,
+                                this.alquranService.getPerJuz(nomorJuz)
+                                // )
+                                ,
                                 HttpStatus.OK);
         }
 }
