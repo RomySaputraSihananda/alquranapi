@@ -3,7 +3,7 @@
 # Al-Quran Services Rest API
 
 Al-Quran Services Rest API with Sping Boot v3.2.0-SNAPSHOT </br>
-and Swagger UI for Endpoint API documentation.
+and Swagger UI for Endpoint API documentation.Static File version is available [here](https://github.com/RomySaputraSihananda/alquranapi/tree/v1.0.0)
 
 # Dependency
 
@@ -15,11 +15,11 @@ and Swagger UI for Endpoint API documentation.
 
 The following is a list of available Request URIs:
 
-- **GET** API for get all surat.
+- **GET** API get current authority role.
   - http://127.0.0.1:4444/api/v1/alquran
-- **GET** API for get detail surat.
+- **GET** API get current authority role.
   - http://127.0.0.1:4444/api/v1/alquran/{nomorSurat}
-- **GET** API for get tafsir surat.
+- **GET** API get current authority role.
   - http://127.0.0.1:4444/api/v1/alquran/tafsir/{nomorSurat}
 
 ## Licence
