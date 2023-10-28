@@ -4,8 +4,6 @@ CREATE DATABASE alquran;
 
 USE alquran;
 
-SELECT * from surat as s1 INNER JOIN surat s2 ON s1.nomor = s2.nomorSuratSelanjutnya WHERE s1.nomor = 1;
-
 CREATE TABLE surat(
     nomor INT(4) PRIMARY KEY NOT NULL,
     nama NVARCHAR(100) NOT NULL,
@@ -21,10 +19,11 @@ CREATE TABLE surat(
 );
 
 CREATE TABLE ayat(
-    id INT(6) AUTO_INCREMENT PRIMARY KEY,
-    nomorAyat VARCHAR(12) NOT NULL,
-    teksArab VARCHAR(255) NOT NULL,
-    teksIndonesia INT(4),
+    id INT(6) AUTO_INCREMENT PRIMARY KEY NOT NULL,
+    nomorAyat INT(3) NOT NULL,
+    teksArab NVARCHAR(10000) NOT NULL,
+    teksLatin NVARCHAR(10000) NOT NULL,
+    teksIndonesia TEXT NOT NULL,
     nomorSurat INT(4),
     FOREIGN KEY (nomorSurat) REFERENCES surat(nomor)
 );
