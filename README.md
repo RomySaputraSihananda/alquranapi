@@ -15,11 +15,11 @@ and Swagger UI for Endpoint API documentation.
 
 The following is a list of available Request URIs:
 
-- **GET** API get current authority role.
+- **GET** API for get all surat.
   - http://127.0.0.1:4444/api/v1/alquran
-- **GET** API get current authority role.
+- **GET** API for get detail surat.
   - http://127.0.0.1:4444/api/v1/alquran/{nomorSurat}
-- **GET** API get current authority role.
+- **GET** API for get tafsir surat.
   - http://127.0.0.1:4444/api/v1/alquran/tafsir/{nomorSurat}
 
 ## Licence
