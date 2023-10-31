@@ -19,7 +19,7 @@ CREATE TABLE surat(
 );
 
 CREATE TABLE ayat(
-    id INT(6) AUTO_INCREMENT PRIMARY KEY NOT NULL,
+    id VARCHAR(7) PRIMARY KEY NOT NULL,
     nomorAyat INT(3) NOT NULL,
     teksArab NVARCHAR(10000) NOT NULL,
     teksLatin NVARCHAR(10000) NOT NULL,
@@ -29,11 +29,10 @@ CREATE TABLE ayat(
 );
 
 CREATE TABLE audio(
-    id INT(6) AUTO_INCREMENT PRIMARY KEY,
-    nomorAudio VARCHAR(12) NOT NULL,
+    id INT(7) AUTO_INCREMENT PRIMARY KEY NOT NULL,
     audioLink VARCHAR(255) NOT NULL,
     nomorSurat INT(4),
-    nomorAyat INT(4),
+    nomorAyat VARCHAR(7),
     FOREIGN KEY (nomorSurat) REFERENCES surat(nomor),
     FOREIGN KEY (nomorAyat) REFERENCES ayat(id)
 );
