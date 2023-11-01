@@ -1,4 +1,4 @@
-INSERT INTO ayat(id, nomorAyat, teksArab, teksLatin, teksIndonesia, nomorSurat)
+INSERT INTO ayat(id, nomor_ayat, teks_arab, teks_latin, teks_indonesia, nomor_surat)
 VALUES 	("001-001", 1, "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ", "bismillāhir-raḥmānir-raḥīm(i).","Dengan nama Allah Yang Maha Pengasih, Maha Penyayang.", 1),
 	("001-002", 2, "اَلْحَمْدُ لِلّٰهِ رَبِّ الْعٰلَمِيْنَۙ", "al-ḥamdu lillāhi rabbil-‘ālamīn(a).","Segala puji bagi Allah, Tuhan seluruh alam,", 1),
 	("001-003", 3, "الرَّحْمٰنِ الرَّحِيْمِۙ", "ar-raḥmānir-raḥīm(i).","Yang Maha Pengasih, Maha Penyayang,", 1),

@@ -1,4 +1,6 @@
-INSERT	INTO		surat(nomor, nama, namaLatin, jumlahAyat, tempatTurun, arti, deskripsi)
+INSERT	
+	INTO 
+		surat(nomor, nama, nama_latin, jumlah_ayat, tempat_turun, arti, deskripsi)
 VALUES	(1, "الفاتحة", "Al-Fatihah", 7, "Mekah", "Pembukaan", "Surat <i>Al Faatihah</i> (Pembukaan) yang diturunkan di Mekah dan terdiri dari 7 ayat adalah surat yang pertama-tama diturunkan dengan lengkap  diantara surat-surat yang ada dalam Al Quran dan termasuk golongan surat Makkiyyah. Surat ini disebut <i>Al Faatihah</i> (Pembukaan), karena dengan surat inilah dibuka dan dimulainya Al Quran. Dinamakan <i>Ummul Quran</i> (induk Al Quran) atau <i>Ummul Kitaab</i> (induk Al Kitaab) karena dia merupakan induk dari semua isi Al Quran, dan karena itu diwajibkan membacanya pada tiap-tiap sembahyang.<br> Dinamakan pula <i>As Sab`ul matsaany</i> (tujuh yang berulang-ulang) karena ayatnya tujuh dan dibaca berulang-ulang dalam sholat."),
 	(2, "البقرة", "Al-Baqarah", 286, "Madinah", "Sapi", "Surat <i>Al Baqarah</i> yang 286 ayat itu turun di Madinah yang sebahagian besar diturunkan pada permulaan tahun Hijrah, kecuali ayat 281 diturunkan di Mina pada Hajji wadaa` (hajji Nabi Muhammad s.a.w. yang terakhir). Seluruh ayat dari surat Al Baqarah termasuk golongan Madaniyyah, merupakan surat yang terpanjang di antara surat-surat Al Quran yang di dalamnya terdapat pula ayat yang terpancang (ayat 282). Surat ini dinamai <i>Al Baqarah</i> karena di dalamnya disebutkan kisah penyembelihan sapi betina yang diperintahkan Allah kepada Bani Israil (ayat 67 sampai dengan 74), dimana dijelaskan watak orang Yahudi pada umumnya. Dinamai <i>Fusthaatul-Quran</i> (puncak Al Quran) karena memuat beberapa hukum yang tidak disebutkan dalam surat yang lain. Dinamai juga surat  <i>alif-laam-miim</i> karena surat ini dimulai dengan Alif-laam-miim."),
 	(3, "اٰل عمران", "Ali `Imran", 200, "Madinah", "Keluarga Imran", "Surat <i>Ali `Imran</i> yang terdiri dari 200 ayat ini adalah surat Madaniyyah.  Dinamakan <i>Ali `Imran</i> karena memuat kisah keluarga `Imran yang di dalam kisah itu disebutkan kelahiran Nabi Isa a.s., persamaan kejadiannya dengan Nabi Adam a. s., kenabian dan beberapa mukjizatnya, serta disebut pula kelahiran Maryam puteri `Imran, ibu dari Nabi Isa a.s. Surat Al Baqarah dan Ali `Imran ini dinamakan <i>Az Zahrawaani</i> (dua yang cemerlang), karena kedua surat ini menyingkapkan hal-hal yang disembunyikan oleh para Ahli Kitab, seperti kejadian dan kelahiran Nabi Isa a.s., kedatangan Nabi Muhammad s.a.w. dan sebagainya."),
@@ -117,11 +119,11 @@ VALUES	(1, "الفاتحة", "Al-Fatihah", 7, "Mekah", "Pembukaan", "Surat <i>Al
 UPDATE 
     surat
 SET 
-    nomorSuratSelanjutnya =
+    nomor_surat_selanjutnya =
     CASE 
         WHEN nomor < 114 THEN nomor + 1
     END,
-    nomorSuratSebelumnya =
+    nomor_surat_sebelumnya =
     CASE 
         WHEN nomor > 1 THEN nomor - 1
     END;

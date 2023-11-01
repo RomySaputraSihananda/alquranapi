@@ -1,6 +1,10 @@
 package org.alquranapi.Model.DTO;
 
+import java.util.List;
 import java.util.Map;
+
+import org.alquranapi.Model.DAO.AudioDAO;
+import org.alquranapi.Model.DAO.SuratDAO;
 
 import lombok.Data;
 import lombok.EqualsAndHashCode;
@@ -13,13 +17,13 @@ public class SuratDTO extends SuratPrevNextDTO {
     private String tempatTurun;
     private String arti;
     private String deskripsi;
-    private Map<String, String> audioFull;
+    private List<AudioDAO> audioFull;
 
-    public SuratDTO(SuratDetailDTO suratDetailDTO) {
-        super(suratDetailDTO);
-        this.tempatTurun = suratDetailDTO.getTempatTurun();
-        this.arti = suratDetailDTO.getArti();
-        this.deskripsi = suratDetailDTO.getDeskripsi();
-        this.audioFull = suratDetailDTO.getAudioFull();
+    public SuratDTO(SuratDAO surat) {
+        super(surat);
+        this.tempatTurun = surat.getTempatTurun();
+        this.arti = surat.getArti();
+        this.deskripsi = surat.getDeskripsi();
+        this.audioFull = surat.getAudioFull();
     }
 }

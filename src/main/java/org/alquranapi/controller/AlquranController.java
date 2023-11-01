@@ -23,7 +23,7 @@ public class AlquranController {
 
         @Operation(summary = "Get all surat", description = "API for get all surat")
         @GetMapping
-        public ResponseEntity<BodyResponse<SuratDTO>> handlerGetAll() {
+        public ResponseEntity<BodyResponse<?>> handlerGetAll() {
                 return new ResponseEntity<>(new BodyResponse<>("ok", HttpStatus.OK.value(), "all data surat Al-Quran",
                                 this.alquranService.getAll()), HttpStatus.OK);
         }

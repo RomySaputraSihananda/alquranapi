@@ -1,5 +1,7 @@
 package org.alquranapi.Model.DTO;
 
+import org.alquranapi.Model.DAO.SuratDAO;
+
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
@@ -11,10 +13,10 @@ public class SuratPrevNextDTO {
     private String namaLatin;
     private int jumlahAyat;
 
-    public SuratPrevNextDTO(SuratDetailDTO suratDetailDTO) {
-        this.nomor = suratDetailDTO.getNomor();
-        this.nama = suratDetailDTO.getNama();
-        this.namaLatin = suratDetailDTO.getNamaLatin();
-        this.jumlahAyat = suratDetailDTO.getJumlahAyat();
+    public SuratPrevNextDTO(SuratDAO surat) {
+        this.nomor = surat.getNomor();
+        this.nama = surat.getNama();
+        this.namaLatin = surat.getNamaLatin();
+        this.jumlahAyat = surat.getJumlahAyat();
     }
 }

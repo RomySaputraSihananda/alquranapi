@@ -3,11 +3,14 @@ package org.alquranapi.service;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.stream.Collectors;
 
 import org.alquranapi.Model.DTO.SuratDTO;
 import org.alquranapi.Model.DTO.SuratDetailDTO;
 import org.alquranapi.Model.DTO.SuratTafsirDTO;
 import org.alquranapi.exception.AlquranException;
+import org.alquranapi.repository.SuratRepository;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.core.io.Resource;
 import org.springframework.stereotype.Service;
@@ -17,12 +20,12 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 
 @Service
 public class AlquranService {
-    public ArrayList<SuratDTO> getAll() {
-        ArrayList<SuratDTO> allSurat = new ArrayList<>();
-        for (int i = 1; i <= 114; i++) {
-            allSurat.add(new SuratDTO(readFile("surat_alquran", i, SuratDetailDTO.class)));
-        }
-        return allSurat;
+    @Autowired
+    private SuratRepository alquranRepository;
+
+    public ArrayList<?> getAll() {
+        return new ArrayList<>(this.alquranRepository.findAll().stream().map(surat -> new SuratDTO(surat))
+                .collect(Collectors.toList()));
     }
 
     public ArrayList<SuratDetailDTO> getDetail(int nomor) {

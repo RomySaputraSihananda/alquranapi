@@ -1,6 +1,6 @@
 INSERT
 	INTO
-		audio(audioLink, nomorSurat, nomorAyat)
+		audio(audio_link, nomor_surat, nomor_ayat)
 VALUES
 ("https://equran.nos.wjv-1.neo.id/audio-full/Abdullah-Al-Juhany/001.mp3", 1, null),
 ("https://equran.nos.wjv-1.neo.id/audio-full/Abdul-Muhsin-Al-Qasim/001.mp3", 1, null),
