@@ -23,14 +23,14 @@ public class AlquranController {
 
         @Operation(summary = "Get all surat", description = "API for get all surat")
         @GetMapping
-        public ResponseEntity<BodyResponse<?>> handlerGetAll() {
+        public ResponseEntity<BodyResponse<SuratDTO>> handlerGetAll() {
                 return new ResponseEntity<>(new BodyResponse<>("ok", HttpStatus.OK.value(), "all data surat Al-Quran",
                                 this.alquranService.getAll()), HttpStatus.OK);
         }
 
         @Operation(summary = "Get detail surat", description = "API for get detail surat")
         @GetMapping("/{nomorSurat}")
-        public ResponseEntity<BodyResponse<?>> handlerGetDetail(@PathVariable Long nomorSurat) {
+        public ResponseEntity<BodyResponse<SuratDetailDTO>> handlerGetDetail(@PathVariable int nomorSurat) {
                 return new ResponseEntity<>(
                                 new BodyResponse<>("ok", HttpStatus.OK.value(),
                                                 "all detail surat Al-Quran nomor " + nomorSurat,
