@@ -3,13 +3,14 @@
 # Al-Quran Services Rest API
 
 Al-Quran Services Rest API with Sping Boot v3.2.0-SNAPSHOT </br>
-and Swagger UI for Endpoint API documentation.Static File version is available [here](https://github.com/RomySaputraSihananda/alquranapi/tree/v1.0.0)
+and Swagger UI for Endpoint API documentation. Static File version is available [here](https://github.com/RomySaputraSihananda/alquranapi/tree/v1.0.0)
 
 # Dependency
 
+- org.springframework.boot:spring-boot-starter-data-jpa:**3.2.0-SNAPSHOT**
 - org.springdoc:springdoc-openapi-starter-webmvc-ui:**2.2.0**
 - org.projectlombok:lombok:**1.18.30**
-- com.fasterxml.jackson.core:jackson-core:**2.15.2**
+- com.mysql:mysql-connector-j:**8.1.0**
 
 # EndPoints
 
