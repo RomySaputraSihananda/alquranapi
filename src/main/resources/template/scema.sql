@@ -4,6 +4,8 @@ CREATE DATABASE alquran;
 
 USE alquran;
 
+SET GLOBAL max_allowed_packet=1073741824;
+
 CREATE TABLE surat(
     nomor INT(4) PRIMARY KEY NOT NULL,
     nama NVARCHAR(100) NOT NULL,
@@ -35,4 +37,12 @@ CREATE TABLE audio(
     nomor_ayat VARCHAR(7),
     FOREIGN KEY (nomor_surat) REFERENCES surat(nomor),
     FOREIGN KEY (nomor_ayat) REFERENCES ayat(id)
+);
+
+CREATE TABLE tafsir(
+    id INT(6) AUTO_INCREMENT PRIMARY KEY NOT NULL, 
+    ayat INT(6) NOT NULL,
+    teks TEXT NOT NULL,
+    id_ayat VARCHAR(7),
+    FOREIGN KEY (id_ayat) REFERENCES ayat(id)
 );

@@ -5,5 +5,6 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
 @Repository
-public interface SuratRepository extends JpaRepository<SuratDAO, Long> {
+public interface SuratRepository extends JpaRepository<SuratDAO, Integer> {
+    public SuratDAO getByNomor(long nomor);
 }

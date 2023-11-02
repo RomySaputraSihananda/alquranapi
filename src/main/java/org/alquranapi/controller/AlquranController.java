@@ -30,7 +30,7 @@ public class AlquranController {
 
         @Operation(summary = "Get detail surat", description = "API for get detail surat")
         @GetMapping("/{nomorSurat}")
-        public ResponseEntity<BodyResponse<SuratDetailDTO>> handlerGetDetail(@PathVariable int nomorSurat) {
+        public ResponseEntity<BodyResponse<?>> handlerGetDetail(@PathVariable Long nomorSurat) {
                 return new ResponseEntity<>(
                                 new BodyResponse<>("ok", HttpStatus.OK.value(),
                                                 "all detail surat Al-Quran nomor " + nomorSurat,

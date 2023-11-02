@@ -54,4 +54,8 @@ public class SuratDAO {
     @JsonManagedReference
     @OneToMany(mappedBy = "surat", cascade = CascadeType.ALL)
     private List<AudioDAO> audioFull;
+
+    @JsonManagedReference
+    @OneToMany(mappedBy = "surat", cascade = CascadeType.ALL)
+    private List<AyatDAO> ayat;
 }

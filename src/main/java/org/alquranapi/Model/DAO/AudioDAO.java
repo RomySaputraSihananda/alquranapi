@@ -1,9 +1,6 @@
 package org.alquranapi.Model.DAO;
 
-import org.alquranapi.Model.DTO.SuratDTO;
-
-import com.fasterxml.jackson.annotation.JsonBackReference;
-import com.fasterxml.jackson.annotation.JsonManagedReference;
+import com.fasterxml.jackson.annotation.JsonIgnore;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
@@ -27,8 +24,13 @@ public class AudioDAO {
     @Column(name = "audio_link")
     private String audioLink;
 
-    @JsonManagedReference
+    @JsonIgnore
     @ManyToOne
     @JoinColumn(name = "nomor_surat", referencedColumnName = "nomor", insertable = false, updatable = false)
     private SuratDAO surat;
+
+    @JsonIgnore
+    @ManyToOne
+    @JoinColumn(name = "nomor_ayat", referencedColumnName = "id", insertable = false, updatable = false)
+    private AyatDAO ayat;
 }

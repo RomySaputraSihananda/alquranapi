@@ -1,8 +1,10 @@
 package org.alquranapi.service;
 
 import java.io.IOException;
+import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.NoSuchElementException;
 import java.util.stream.Collectors;
 
 import org.alquranapi.Model.DTO.SuratDTO;
@@ -13,6 +15,7 @@ import org.alquranapi.repository.SuratRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.core.io.Resource;
+import org.springframework.data.crossstore.ChangeSetPersister.NotFoundException;
 import org.springframework.stereotype.Service;
 
 import com.fasterxml.jackson.databind.DeserializationFeature;
@@ -28,8 +31,14 @@ public class AlquranService {
                 .collect(Collectors.toList()));
     }
 
-    public ArrayList<SuratDetailDTO> getDetail(int nomor) {
-        return new ArrayList<>(List.of(readFile("surat_alquran", nomor, SuratDetailDTO.class)));
+    public ArrayList<?> getDetail(Long nomor) {
+        try {
+            return new ArrayList<>(
+                    List.of(this.alquranRepository.getByNomor(nomor)).stream().map(surat -> new SuratDetailDTO(surat))
+                            .collect(Collectors.toList()));
+        } catch (NoSuchElementException e) {
+            throw new AlquranException("surat not found");
+        }
     }
 
     public ArrayList<SuratDetailDTO> getAyat(int nomor) {
