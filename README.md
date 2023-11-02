@@ -3,7 +3,9 @@
 # Al-Quran Services Rest API
 
 Al-Quran Services Rest API with Sping Boot v3.2.0-SNAPSHOT </br>
-and Swagger UI for Endpoint API documentation. Static File version is available [here](https://github.com/RomySaputraSihananda/alquranapi/tree/v1.0.0)
+and Swagger UI for Endpoint API documentation. </br> 
+Static File version is available [here](https://github.com/RomySaputraSihananda/alquranapi/tree/v1.0.0),
+Spring Data JPA version is available [here](https://github.com/RomySaputraSihananda/alquranapi/tree/v1.0.1)
 
 # Dependency
 
