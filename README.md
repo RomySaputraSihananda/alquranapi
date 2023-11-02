@@ -21,7 +21,7 @@ The following is a list of available Request URIs:
   - http://127.0.0.1:4444/api/v1/alquran/{nomorSurat}
 - **GET** API for get tafsir surat.
   - http://127.0.0.1:4444/api/v1/alquran/tafsir/{nomorSurat}
-
+  
 ## Licence
 
 All source code is licensed under the GNU General Public License v3. Please [see](https://www.gnu.org/licenses) the original document for more details.

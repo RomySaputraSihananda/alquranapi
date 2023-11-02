@@ -1,24 +1,19 @@
 package org.alquranapi.service;
 
-import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.NoSuchElementException;
 import java.util.stream.Collectors;
 
 import org.alquranapi.Model.DAO.SuratDAO;
 import org.alquranapi.Model.DTO.SuratDTO;
 import org.alquranapi.Model.DTO.SuratDetailDTO;
+import org.alquranapi.Model.DTO.SuratPrevNextDTO;
 import org.alquranapi.Model.DTO.SuratTafsirDTO;
 import org.alquranapi.exception.AlquranException;
 import org.alquranapi.repository.SuratRepository;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.core.io.ClassPathResource;
-import org.springframework.core.io.Resource;
-import org.springframework.stereotype.Service;
 
-import com.fasterxml.jackson.databind.DeserializationFeature;
-import com.fasterxml.jackson.databind.ObjectMapper;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
 @Service
 public class AlquranService {
@@ -26,7 +21,7 @@ public class AlquranService {
     private SuratRepository alquranRepository;
 
     public ArrayList<SuratDTO> getAll() {
-        return new ArrayList<>(this.alquranRepository.findAll().stream().map(surat -> new SuratDTO(surat))
+        return new ArrayList<>(this.alquranRepository.findAll().stream().map(e -> new SuratDTO(e))
                 .collect(Collectors.toList()));
     }
 
@@ -36,28 +31,25 @@ public class AlquranService {
         if (surat == null)
             throw new AlquranException("surat not found");
 
-        return new ArrayList<>(List.of(surat).stream().map(e -> new SuratDetailDTO(e))
-                .collect(Collectors.toList()));
-    }
-
-    public ArrayList<SuratDetailDTO> getAyat(int nomor) {
-        return new ArrayList<>(List.of(readFile("surat_alquran", nomor, SuratDetailDTO.class)));
+        return new ArrayList<>(List.of(new SuratDetailDTO(surat)));
     }
 
     public ArrayList<SuratTafsirDTO> getTafsir(int nomor) {
-        return new ArrayList<>(List.of(readFile("tafsir_alquran", nomor, SuratTafsirDTO.class)));
+        SuratDAO surat = this.alquranRepository.getByNomor(nomor);
+
+        if (surat == null)
+            throw new AlquranException("surat not found");
+
+        return new ArrayList<>(List.of(new SuratTafsirDTO(surat)));
     }
 
-    public <T> T readFile(String type, int nomor, Class<T> typeClass) {
-        ObjectMapper objectMapper = new ObjectMapper();
-        objectMapper.configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES,
-                true);
-        try {
-            Resource resource = new ClassPathResource("data/" + type + "/" + nomor + ".json");
-            T surat = (T) objectMapper.readValue(resource.getInputStream(), typeClass);
-            return surat;
-        } catch (IOException e) {
+    public ArrayList<?> search(String nama) {
+        List<SuratDAO> surat = this.alquranRepository.findByNamaLatinContaining(nama);
+
+        if (surat == null || surat.size() < 1)
             throw new AlquranException("surat not found");
-        }
+
+        return new ArrayList<>(surat.stream().map(e -> new SuratPrevNextDTO(e))
+                .collect(Collectors.toList()));
     }
 }

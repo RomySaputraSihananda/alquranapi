@@ -2,8 +2,6 @@ package org.alquranapi.Model.DAO;
 
 import java.util.List;
 
-import com.fasterxml.jackson.annotation.JsonManagedReference;
-
 import jakarta.persistence.CascadeType;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
@@ -11,9 +9,10 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.JoinColumn;
-import jakarta.persistence.ManyToOne;
 import jakarta.persistence.OneToMany;
+import jakarta.persistence.OneToOne;
 import jakarta.persistence.Table;
+
 import lombok.Data;
 
 @Data
@@ -43,19 +42,17 @@ public class SuratDAO {
     @Column(name = "deskripsi")
     private String deskripsi;
 
-    @ManyToOne
+    @OneToOne
     @JoinColumn(name = "nomor_surat_selanjutnya", referencedColumnName = "nomor", insertable = false, updatable = false)
     private SuratDAO nomorSuratSelanjutnya;
 
-    @ManyToOne
+    @OneToOne
     @JoinColumn(name = "nomor_surat_sebelumnya", referencedColumnName = "nomor", insertable = false, updatable = false)
     private SuratDAO nomorSuratSebelumnya;
 
-    @JsonManagedReference
     @OneToMany(mappedBy = "surat", cascade = CascadeType.ALL)
     private List<AudioDAO> audioFull;
 
-    @JsonManagedReference
     @OneToMany(mappedBy = "surat", cascade = CascadeType.ALL)
     private List<AyatDAO> ayat;
 }

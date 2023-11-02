@@ -18,7 +18,7 @@ public class SuratDetailDTO extends SuratDTO {
     public SuratDetailDTO(SuratDAO surat) {
         super(surat);
         this.ayat = new ArrayList<>(
-                surat.getAyat().stream().map(ayat -> new AyatDTO(ayat)).collect(Collectors.toList()));
+                surat.getAyat().stream().map(e -> new AyatDTO(e)).collect(Collectors.toList()));
         this.suratSelanjutnya = check(surat.getNomorSuratSelanjutnya());
         this.suratSebelumnya = check(surat.getNomorSuratSebelumnya());
     }

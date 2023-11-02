@@ -5,6 +5,7 @@ import org.alquranapi.Model.DTO.SuratDetailDTO;
 import org.alquranapi.Model.DTO.SuratTafsirDTO;
 import org.alquranapi.payload.response.BodyResponse;
 import org.alquranapi.service.AlquranService;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -45,6 +46,16 @@ public class AlquranController {
                                 new BodyResponse<>("ok", HttpStatus.OK.value(),
                                                 "all tafsir surat Al-Quran nomor " + nomorSurat,
                                                 this.alquranService.getTafsir(nomorSurat)),
+                                HttpStatus.OK);
+        }
+
+        @Operation(summary = "Search by name surat", description = "API for search by name surat")
+        @GetMapping("/search/{namaSurat}")
+        public ResponseEntity<BodyResponse<?>> handlerSearch(@PathVariable String namaSurat) {
+                return new ResponseEntity<>(
+                                new BodyResponse<>("ok", HttpStatus.OK.value(),
+                                                "all result searches for key " + namaSurat,
+                                                this.alquranService.search(namaSurat)),
                                 HttpStatus.OK);
         }
 }

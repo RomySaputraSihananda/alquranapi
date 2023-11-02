@@ -24,7 +24,7 @@ public class AyatDTO {
         this.audio = IntStream.range(0, ayat.getAudio().size())
                 .boxed()
                 .collect(Collectors.toMap(
-                        index -> String.format("0%d", index + 1),
-                        index -> ayat.getAudio().get(index).getAudioLink()));
+                        e -> String.format("0%d", e + 1),
+                        e -> ayat.getAudio().get(e).getAudioLink()));
     }
 }

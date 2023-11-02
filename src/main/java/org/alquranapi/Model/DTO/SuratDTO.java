@@ -1,11 +1,9 @@
 package org.alquranapi.Model.DTO;
 
-import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
-import org.alquranapi.Model.DAO.AudioDAO;
 import org.alquranapi.Model.DAO.SuratDAO;
 
 import lombok.Data;
@@ -29,7 +27,7 @@ public class SuratDTO extends SuratPrevNextDTO {
         this.audioFull = IntStream.range(0, surat.getAudioFull().size())
                 .boxed()
                 .collect(Collectors.toMap(
-                        index -> String.format("0%d", index + 1),
-                        index -> surat.getAudioFull().get(index).getAudioLink()));
+                        e -> String.format("0%d", e + 1),
+                        e -> surat.getAudioFull().get(e).getAudioLink()));
     }
 }
