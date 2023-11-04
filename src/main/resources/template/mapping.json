@@ -1,0 +1,65 @@
+{
+  "mappings": {
+    "properties": {
+      "arti": { "type": "text" },
+      "audioFull": {
+        "properties": {
+          "01": { "type": "text" },
+          "02": { "type": "text" },
+          "03": { "type": "text" },
+          "04": { "type": "text" },
+          "05": { "type": "text" }
+        }
+      },
+      "ayat": {
+        "type": "nested",
+        "properties": {
+          "audio": {
+            "properties": {
+              "01": { "type": "text" },
+              "02": { "type": "text" },
+              "03": { "type": "text" },
+              "04": { "type": "text" },
+              "05": { "type": "text" }
+            }
+          },
+          "nomorAyat": { "type": "integer" },
+          "teksArab": { "type": "text" },
+          "teksIndonesia": { "type": "text" },
+          "teksLatin": { "type": "text" }
+        }
+      },
+      "deskripsi": { "type": "text" },
+      "jumlahAyat": { "type": "integer" },
+      "nama": { "type": "text" },
+      "namaLatin": { "type": "text" },
+      "nomor": { "type": "integer" },
+      "suratSebelumnya": {
+        "properties": {
+          "jumlahAyat": { "type": "integer" },
+          "nama": { "type": "text" },
+          "namaLatin": { "type": "text" },
+          "nomor": { "type": "integer" }
+        }
+      },
+      "suratSelanjutnya": {
+        "properties": {
+          "jumlahAyat": { "type": "integer" },
+          "nama": { "type": "text" },
+          "namaLatin": { "type": "text" },
+          "nomor": { "type": "integer" }
+        }
+      },
+      "tafsir": {
+        "properties": {
+          "ayat": { "type": "long" },
+          "teks": {
+            "type": "text",
+            "fields": { "keyword": { "type": "keyword", "ignore_above": 256 } }
+          }
+        }
+      },
+      "tempatTurun": { "type": "text" }
+    }
+  }
+}
