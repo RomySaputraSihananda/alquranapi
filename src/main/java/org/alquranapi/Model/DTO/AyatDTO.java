@@ -1,10 +1,6 @@
 package org.alquranapi.Model.DTO;
 
 import java.util.Map;
-import java.util.stream.Collectors;
-import java.util.stream.IntStream;
-
-import org.alquranapi.Model.DAO.AyatDAO;
 
 import lombok.Data;
 
@@ -14,17 +10,5 @@ public class AyatDTO {
     private String teksArab;
     private String teksLatin;
     private String teksIndonesia;
-    private Map<?, ?> audio;
-
-    public AyatDTO(AyatDAO ayat) {
-        this.nomorAyat = ayat.getNomorAyat();
-        this.teksArab = ayat.getTeksArab();
-        this.teksLatin = ayat.getTeksLatin();
-        this.teksIndonesia = ayat.getTeksIndonesia();
-        this.audio = IntStream.range(0, ayat.getAudio().size())
-                .boxed()
-                .collect(Collectors.toMap(
-                        e -> String.format("0%d", e + 1),
-                        e -> ayat.getAudio().get(e).getAudioLink()));
-    }
+    private Map<String, String> audio;
 }
