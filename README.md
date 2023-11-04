@@ -3,16 +3,16 @@
 # Al-Quran Services Rest API
 
 Al-Quran Services Rest API with Sping Boot v3.2.0-SNAPSHOT </br>
-and Swagger UI for Endpoint API documentation. </br> 
+uses Elasticsearch as Storage Database and Swagger UI for Endpoint API documentation. </br>
 Static File version is available [here](https://github.com/RomySaputraSihananda/alquranapi/tree/v1.0.0), </br>
 Spring Data JPA version is available [here](https://github.com/RomySaputraSihananda/alquranapi/tree/v1.0.1)
 
 # Dependency
 
-- org.springframework.boot:spring-boot-starter-data-jpa:**3.2.0-SNAPSHOT**
 - org.springdoc:springdoc-openapi-starter-webmvc-ui:**2.2.0**
+- co.elastic.clients:elasticsearch-java:**8.10.4**
+- com.fasterxml.jackson.core:jackson-databind:**2.15.2**
 - org.projectlombok:lombok:**1.18.30**
-- com.mysql:mysql-connector-j:**8.1.0**
 
 # EndPoints
 
@@ -25,7 +25,9 @@ The following is a list of available Request URIs:
 - **GET** API for get tafsir surat.
   - http://127.0.0.1:4444/api/v1/alquran/tafsir/{nomorSurat}
 - **GET** API for search by name surat.
-  - http://127.0.0.1:4444/api/v1/alquran/search/{namaSurat}
+  - http://127.0.0.1:4444/api/v1/alquran/search/nama/{namaSurat}
+- **GET** API for search by tempat turun surat.
+  - http://127.0.0.1:4444/api/v1/alquran/search/tempatTurun/{tempatTurun}
 
 ## Licence
 
