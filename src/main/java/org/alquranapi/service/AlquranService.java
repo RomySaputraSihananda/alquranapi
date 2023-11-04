@@ -11,7 +11,7 @@ import org.alquranapi.Model.DTO.SuratDetailDTO;
 import org.alquranapi.Model.DTO.SuratPrevNextDTO;
 import org.alquranapi.Model.DTO.SuratTafsirDTO;
 import org.alquranapi.exception.AlquranException;
-
+import org.alquranapi.payload.hit.ElasticHit;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
@@ -28,37 +28,45 @@ public class AlquranService {
     @Value("${service.elastic.index}")
     private String index;
 
-    public ArrayList<SuratDTO> getAll() throws IOException {
+    public ArrayList<ElasticHit<SuratDTO>> getAll() throws IOException {
         SearchResponse<SuratDAO> response = this.client.search(search -> search.index(this.index).size(114),
                 SuratDAO.class);
 
-        return new ArrayList<>(response.hits().hits().stream().map(surat -> new SuratDTO(surat.source()))
+        return new ArrayList<>(response.hits().hits().stream()
+                .map(surat -> new ElasticHit<SuratDTO>(surat.id(), surat.index(), new SuratDTO(surat.source())))
                 .collect(Collectors.toList()));
     }
 
-    public ArrayList<SuratDetailDTO> getDetail(int nomor) throws IOException {
+    public ArrayList<ElasticHit<SuratDetailDTO>> getDetail(int nomor) throws IOException {
         GetResponse<SuratDAO> response = this.client.get(get -> get.index(this.index).id(Integer.toString(nomor)),
                 SuratDAO.class);
         if (!response.found())
             throw new AlquranException("surat not found");
 
-        return new ArrayList<>(List.of(new SuratDetailDTO(response.source())));
+        return new ArrayList<>(List.of(new ElasticHit<SuratDetailDTO>(response.id(), response.index(),
+                new SuratDetailDTO(response.source()))));
     }
 
-    public ArrayList<SuratTafsirDTO> getTafsir(int nomor) throws IOException {
+    public ArrayList<ElasticHit<SuratTafsirDTO>> getTafsir(int nomor) throws IOException {
         GetResponse<SuratDAO> response = this.client.get(get -> get.index(this.index).id(Integer.toString(nomor)),
                 SuratDAO.class);
         if (!response.found())
             throw new AlquranException("surat not found");
 
-        return new ArrayList<>(List.of(new SuratTafsirDTO(response.source())));
+        return new ArrayList<>(List.of(
+                new ElasticHit<SuratTafsirDTO>(response.id(), response.index(),
+                        new SuratTafsirDTO(response.source()))));
     }
 
-    public ArrayList<SuratPrevNextDTO> searchByName(String name) throws IOException {
-        return this.search("namaLatin", name);
+    public ArrayList<ElasticHit<SuratPrevNextDTO>> searchByName(String value) throws IOException {
+        return this.search("namaLatin", value);
     }
 
-    private ArrayList<SuratPrevNextDTO> search(String field, String value) throws IOException {
+    public ArrayList<ElasticHit<SuratPrevNextDTO>> searchByTempatTurun(String value) throws IOException {
+        return this.search("tempatTurun", value);
+    }
+
+    private ArrayList<ElasticHit<SuratPrevNextDTO>> search(String field, String value) throws IOException {
         SearchResponse<SuratDAO> response = this.client.search(search -> search
                 .index(this.index)
                 .query(query -> query
@@ -66,13 +74,16 @@ public class AlquranService {
                                 .must(must -> must
                                         .match(match -> match
                                                 .field(field)
-                                                .query(value))))),
+                                                .query(value)))))
+                .size(114),
                 SuratDAO.class);
 
         if (response.hits().maxScore().isNaN())
             throw new AlquranException("surat not found");
 
-        return new ArrayList<>(response.hits().hits().stream().map(surat -> new SuratPrevNextDTO(surat.source()))
+        return new ArrayList<>(response.hits().hits().stream()
+                .map(surat -> new ElasticHit<SuratPrevNextDTO>(surat.id(), surat.index(),
+                        new SuratPrevNextDTO(surat.source())))
                 .collect(Collectors.toList()));
     }
 }

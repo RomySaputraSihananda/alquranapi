@@ -6,6 +6,7 @@ import org.alquranapi.Model.DTO.SuratDTO;
 import org.alquranapi.Model.DTO.SuratDetailDTO;
 import org.alquranapi.Model.DTO.SuratPrevNextDTO;
 import org.alquranapi.Model.DTO.SuratTafsirDTO;
+import org.alquranapi.payload.hit.ElasticHit;
 import org.alquranapi.payload.response.BodyResponse;
 import org.alquranapi.service.AlquranService;
 
@@ -27,14 +28,14 @@ public class AlquranController {
 
         @Operation(summary = "Get all surat", description = "API for get all surat")
         @GetMapping
-        public ResponseEntity<BodyResponse<SuratDTO>> handlerGetAll() throws IOException {
+        public ResponseEntity<BodyResponse<ElasticHit<SuratDTO>>> handlerGetAll() throws IOException {
                 return new ResponseEntity<>(new BodyResponse<>("ok", HttpStatus.OK.value(), "all data surat Al-Quran",
                                 this.alquranService.getAll()), HttpStatus.OK);
         }
 
         @Operation(summary = "Get detail surat", description = "API for get detail surat")
         @GetMapping("/{nomorSurat}")
-        public ResponseEntity<BodyResponse<SuratDetailDTO>> handlerGetDetail(@PathVariable int nomorSurat)
+        public ResponseEntity<BodyResponse<ElasticHit<SuratDetailDTO>>> handlerGetDetail(@PathVariable int nomorSurat)
                         throws IOException {
                 return new ResponseEntity<>(
                                 new BodyResponse<>("ok", HttpStatus.OK.value(),
@@ -45,7 +46,7 @@ public class AlquranController {
 
         @Operation(summary = "Get tafsir surat", description = "API for get tafsir surat")
         @GetMapping("/tafsir/{nomorSurat}")
-        public ResponseEntity<BodyResponse<SuratTafsirDTO>> handlerGetTafsir(@PathVariable int nomorSurat)
+        public ResponseEntity<BodyResponse<ElasticHit<SuratTafsirDTO>>> handlerGetTafsir(@PathVariable int nomorSurat)
                         throws IOException {
                 return new ResponseEntity<>(
                                 new BodyResponse<>("ok", HttpStatus.OK.value(),
@@ -55,13 +56,26 @@ public class AlquranController {
         }
 
         @Operation(summary = "Search by name surat", description = "API for search by name surat")
-        @GetMapping("/search/{namaSurat}")
-        public ResponseEntity<BodyResponse<SuratPrevNextDTO>> handlerSearch(@PathVariable String namaSurat)
+        @GetMapping("/search/nama/{namaSurat}")
+        public ResponseEntity<BodyResponse<ElasticHit<SuratPrevNextDTO>>> handlerSearchByname(
+                        @PathVariable String namaSurat)
                         throws IOException {
                 return new ResponseEntity<>(
                                 new BodyResponse<>("ok", HttpStatus.OK.value(),
-                                                "all result searches for key " + namaSurat,
+                                                "all result searches name for key " + namaSurat,
                                                 this.alquranService.searchByName(namaSurat)),
+                                HttpStatus.OK);
+        }
+
+        @Operation(summary = "Search by name surat", description = "API for search by name surat")
+        @GetMapping("/search/tempatTurun/{tempatTurun}")
+        public ResponseEntity<BodyResponse<ElasticHit<SuratPrevNextDTO>>> handlerSearchByTempatTurun(
+                        @PathVariable String tempatTurun)
+                        throws IOException {
+                return new ResponseEntity<>(
+                                new BodyResponse<>("ok", HttpStatus.OK.value(),
+                                                "all result searches tempat Turun for key " + tempatTurun,
+                                                this.alquranService.searchByTempatTurun(tempatTurun)),
                                 HttpStatus.OK);
         }
 }
