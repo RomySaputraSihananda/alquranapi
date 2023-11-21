@@ -1,8 +1,8 @@
-package org.alquranapi.Model.DTO;
+package org.alquranapi.model.DTO;
 
 import java.util.ArrayList;
 
-import org.alquranapi.Model.DAO.SuratDAO;
+import org.alquranapi.model.DAO.SuratDAO;
 
 import lombok.Data;
 import lombok.EqualsAndHashCode;
@@ -11,14 +11,14 @@ import lombok.NoArgsConstructor;
 @Data
 @EqualsAndHashCode(callSuper = true)
 @NoArgsConstructor
-public class SuratDetailDTO extends SuratDTO {
-    private ArrayList<AyatDTO> ayat;
+public class SuratTafsirDTO extends SuratDTO {
+    private ArrayList<TafsirDTO> tafsir;
     private SuratPrevNextDTO suratSelanjutnya;
     private SuratPrevNextDTO suratSebelumnya;
 
-    public SuratDetailDTO(SuratDAO suratDAO) {
+    public SuratTafsirDTO(SuratDAO suratDAO) {
         super(suratDAO);
-        this.ayat = suratDAO.getAyat();
+        this.tafsir = suratDAO.getTafsir();
         this.suratSelanjutnya = suratDAO.getSuratSelanjutnya();
         this.suratSebelumnya = suratDAO.getSuratSebelumnya();
     }

@@ -1,4 +1,4 @@
-package org.configuration;
+package org.alquranapi.configuration;
 
 import org.apache.http.HttpHost;
 import org.elasticsearch.client.RestClient;

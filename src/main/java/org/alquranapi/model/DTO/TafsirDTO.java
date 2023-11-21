@@ -1,4 +1,4 @@
-package org.alquranapi.Model.DTO;
+package org.alquranapi.model.DTO;
 
 import lombok.Data;
 

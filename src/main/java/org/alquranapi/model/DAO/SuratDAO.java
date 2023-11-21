@@ -1,11 +1,11 @@
-package org.alquranapi.Model.DAO;
+package org.alquranapi.model.DAO;
 
 import java.util.ArrayList;
 
-import org.alquranapi.Model.DTO.AyatDTO;
-import org.alquranapi.Model.DTO.SuratDTO;
-import org.alquranapi.Model.DTO.SuratPrevNextDTO;
-import org.alquranapi.Model.DTO.TafsirDTO;
+import org.alquranapi.model.DTO.AyatDTO;
+import org.alquranapi.model.DTO.SuratDTO;
+import org.alquranapi.model.DTO.SuratPrevNextDTO;
+import org.alquranapi.model.DTO.TafsirDTO;
 
 import lombok.Data;
 import lombok.EqualsAndHashCode;

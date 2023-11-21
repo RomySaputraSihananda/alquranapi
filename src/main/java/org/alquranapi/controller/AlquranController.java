@@ -2,10 +2,10 @@ package org.alquranapi.controller;
 
 import java.io.IOException;
 
-import org.alquranapi.Model.DTO.SuratDTO;
-import org.alquranapi.Model.DTO.SuratDetailDTO;
-import org.alquranapi.Model.DTO.SuratPrevNextDTO;
-import org.alquranapi.Model.DTO.SuratTafsirDTO;
+import org.alquranapi.model.DTO.SuratDTO;
+import org.alquranapi.model.DTO.SuratDetailDTO;
+import org.alquranapi.model.DTO.SuratPrevNextDTO;
+import org.alquranapi.model.DTO.SuratTafsirDTO;
 import org.alquranapi.payload.hit.ElasticHit;
 import org.alquranapi.payload.response.BodyResponse;
 import org.alquranapi.service.AlquranService;

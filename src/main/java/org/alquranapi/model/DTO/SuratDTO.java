@@ -1,8 +1,8 @@
-package org.alquranapi.Model.DTO;
+package org.alquranapi.model.DTO;
 
 import java.util.Map;
 
-import org.alquranapi.Model.DAO.SuratDAO;
+import org.alquranapi.model.DAO.SuratDAO;
 
 import lombok.Data;
 import lombok.EqualsAndHashCode;
